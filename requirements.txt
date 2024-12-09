@@ -4,4 +4,4 @@ langchain-chroma==0.1.4
 langchain-community==0.3.10
 chroma-hnswlib==0.7.6
 chromadb==0.5.23
-ollama==0.3.0  # For Ollama integration if using Ollama embeddings or models
+ollama==0.3.0 

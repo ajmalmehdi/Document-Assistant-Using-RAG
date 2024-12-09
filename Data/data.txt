@@ -1,0 +1,998 @@
+La filière « Innovation et AMOA » vise à former des ingénieurs qui jouissent de compétences diverses et variées leur permettant de jouer plusieurs rôles. En tant qu’ingénieur en innovation et AMOA, il peut s’illustrer en tant qu’entrepreneur en concrétisant des projets innovants dans le domaine numérique, notamment par la création d’une start-up à fort potentiel de croissance, contribuant ainsi au développement de l’écosystème numérique.
+ 
+Parallèlement, il peut également endosser le rôle d’intrapreneur en pilotant avec succès la transformation numérique au sein d’une entreprise. Sa mission consiste à intégrer de manière synchronisée des technologies adaptées et une nouvelle culture numérique au sein de l’entreprise, en mettant en œuvre des méthodologies innovantes et en supervisant le processus de changement. Ce rôle d’accompagnement peut également inclure une fonction d’assistance à la maîtrise d’ouvrage des systèmes d’information, traduisant les besoins fonctionnels d’un commanditaire en solutions technologiques conformes aux objectifs métier (comptabilité, ressources humaines, logistique, commercial, production, etc.) et aux contraintes économiques et logistiques. Il mène des négociations avec les informaticiens tout au long du processus de conception et de réalisation, dans l’intérêt de l’entreprise et des utilisateurs finaux.
+ 
+Les actions de l’ingénieur en innovation et AMOA reposent sur une approche novatrice, favorisant la co-création, la pensée analytique et intuitive au service de son client final. Cette approche lui permet, entre autres, de concevoir le parcours et l’expérience utilisateur sur diverses plateformes, respectant les normes et standards les plus élevés.
+Les compétences ciblées par la filière peuvent être déclinées comme suit :
+ 
+Compétences majeures
+ 
+-    En analyse et modélisation
+-    En stratégie et prise de décision
+-    En organisation et Management des Systèmes d’Information 
+-    En conduite et développement de projet ERP
+-    En conduite et développement de projet CRM 
+-    En conduite et développement de projet BI 
+-    En gestion de projet SI.
+-    En Systèmes d’information Industriel et Logistique
+ 
+Compétences en savoir faire
+ 
+-    Traduction des besoins en fonctionnalités 
+-    Capacité de coordination et de gestion de projets 
+-    Proposition de solutions innovantes
+-    Création de startups
+ 
+Compétence en savoir être
+ 
+-    Maîtrise de la communication dans la langue de travail ainsi que dans au moins une autre langue.
+-    Acquisition d’une éducation générale, reflétée à travers le savoir et le savoir-être, tant au niveau national qu’international, afin de former des ingénieurs aptes à diriger des équipes.
+-    Ouverture à l’international, impliquant l’apprentissage d’autres cultures et de différentes méthodes de travail, à travers des programmes conçus et validés par nos partenaires académiques.
+-    Adaptabilité face au changement.
+-    Développement de compétences techniques au-delà de la spécialité.
+-    Intégration des disciplines de l’entreprise et de la société.
+-    Acquisition de compétences professionnelles par le biais de stages, rédactions et présentations orales, ainsi que des simulations de recherche d’emploi.
+La filière « Innovation & AMOA »  prépare les étudiants à occuper des postes de Manager/Consultant en Systèmes d’Information, avec une dimension de Leadership intégrée. Les débouchés incluent des rôles tels que :
+
+-    Manager SI
+-    Chef de Projet
+-    Consultant ERP (CRM, SCM, SRM, BI)
+-    Architecte SI et BPM
+-    e-Business Manager
+-    Manager de la Sécurité IT.
+ 
+Les profils recherchés incluent particulièrement les postes de managers spécialisés en Systèmes d’Information, SAP, Business Intelligence (BI), et Business Process Management (BPM). Ces compétences sont hautement sollicitées par les grandes entreprises, les PME, les SSII (Sociétés de Services en Ingénierie Informatique) ainsi que les cabinets de conseil. L’insertion professionnelle est très rapide dans ces domaines.
+Le programme de formation est structuré en six semestres, chacun comprenant entre 6 et 8 modules d’enseignement. Au cours des premiers semestres (de S1 à S3), l’objectif principal est d’acquérir des connaissances approfondies et de comprendre les concepts scientifiques et techniques fondamentaux de la discipline. Les semestres avancés (de S4 à S5) visent quant à eux à développer des compétences spécifiques en lien avec les domaines de spécialisation avancée de la filière.
+
+Tout au long du cursus, une attention particulière est accordée à l’acquisition et à la consolidation des compétences transversales, notamment celles liées au management, au travail en équipe, à la communication et aux soft skills de manière générale. Le semestre S6 est dédié à la réalisation d’un projet de fin d’études (PFE), offrant ainsi l’opportunité aux étudiants de mettre en pratique l’ensemble des connaissances et compétences acquises au cours de leur formation. 
+Cursus de la filière "Innovation et AMOA" :
+    S1 :
+       
+         - Algorithmique et Structures de données,Systèmes d’exploitation,Architecture des ordinateurs,Réseaux informatiques,Statistics for data science,Mathematics 	for data science,Probability for data science ,Relational database ,Database Management ,IoT et applications connectées ,Electronique des capteurs .
+        - introduction aux sciences économiques et de gestion ,Comptabilité générale ,Innovation et AMOA dans le contexte numérique    
+        - English Studies,Communication interpersonnelle I
+     S2 :
+        Cloud Computing development
+        Virtualization
+ 	Cloud Computing architecture
+ 	Analyse Numérique
+ 	Recherche Opérationnelle & Optimisation
+ 	Théorie de l’Information
+ 	Réseaux et télécoms
+ 	Programmation objet avec JAVA
+	Conception orientée objet avec UML
+	Stochastic modeling
+ 	Time series
+ 	Data Analysis  
+     S3:
+       Sécurité des SI
+ 	Sécurité des systèmes d'exploitation
+	 Python
+	 Machine et deep Learning
+ 	Natural Language Processing (NLP)
+	 Bases de données NoSQL
+ 	Big Data
+ 	Service oriented architecture
+ 	Web development
+	 Design Thinking & UX Design
+	 Market intelligence
+	 Entreprise Content Management
+	 Knowledge management
+ 	Marketing opérational et digital
+ 	Gestion des ressources humaines
+	 Management de projets
+ 	English Studies
+ 	Communication organisationnelle I
+    S4 :
+       Assurance qualité logicielle
+ 	Tests logiciels : démarches, référentiels
+	 Outils ERP : fonctionnel
+	 Outils ERP : technique
+ 	Cybersecurity: Policies and Practices
+ 	Cybersecurity: Risk analysis and standards
+	 Méthodes multicritères de décision
+ 	Optimisation avancée
+ 	Mobile application development
+ 	Secure web and mobile application
+ 	Ingénierie financière
+ 	Finance de marché
+ 	Management général
+         Stratégies d'entreprises 
+	Contrôle de gestion
+ 	English Studies
+ 	Communication organisationnelle II
+        Management générale
+     S5 :
+        Monnaie & Cryptocurrencies
+	 Blockchain
+ 	Business intelligence
+ 	Business Analytics
+	 Big Data Analytics
+	 CRM
+ 	Customer Experience
+ 	Gouvernance des SI
+ 	Urbanisation des SI
+	 Business Process Management
+ 	Opération & Supply Chain Managmenet
+ 	Lean manufacturing
+ 	Transformation digitale
+ 	Entrepreneuriat et Innovation
+ 	English Studies
+ 	Communication pour insertion professionnelle
+
+
+
+La filière « Sciences de données» vise à former des ingénieurs spécialisés dans la gestion efficace des données à grande échelle ainsi que dans l’analyse et l’exploitation de ces données pour des applications variées. Cette discipline combine les compétences de l’ingénierie des données, axée sur la gestion, le stockage et la récupération des données, avec celles des sciences de données, centrées sur l’analyse et l’interprétation des données.
+Les objectifs ciblés par la filière sont comme suit :
+ 
+-    Fournir aux ingénieurs les compétences nécessaires pour collecter, gérer et analyser les données de manière efficace et efficiente, en utilisant les outils et les technologies les plus avancés.
+
+-    Former les ingénieurs à la modélisation de données, à la compréhension des tendances et des modèles, et à l’utilisation des algorithmes de machine learning pour améliorer les décisions d’affaires et l’innovation.
+
+-    Apprendre aux ingénieurs à comprendre les données d’une entreprise et à utiliser ces connaissances pour proposer des solutions novatrices et résoudre des problèmes complexes.
+
+-    Familiariser les ingénieurs avec les meilleures pratiques en matière de cybersécurité, de confidentialité et d’éthique dans le traitement des données.
+
+-    Donner aux ingénieurs les compétences nécessaires pour communiquer efficacement les résultats de leur analyse de données à des parties prenantes internes et externes.
+
+-    Offrir aux ingénieurs une perspective globale sur les applications de la data science et de la data engineering dans différents domaines, tels que les soins de santé, la finance, la production industrielle, etc.
+
+-    Fournir aux ingénieurs une formation pratique en travaillant sur des projets d’analyse de données réels pour renforcer leurs compétences et leur confiance.
+La filière « Sciences de données »  permettra aux étudiants d’acquérir un large éventail de compétences. Voici quelques exemples de compétences que les étudiants peuvent s’attendre à acquérir :
+
+
+1. Compétences en programmation : Les étudiants apprendront à programmer dans différents langages de programmation pertinents pour la data engineering et la data science (Python, R, Scala, …).
+
+
+2. Compétences en analyse de données : Les étudiants apprendront à collecter, nettoyer, explorer, analyser et visualiser des données en utilisant des outils tels que Pandas, NumPy, etc.
+
+
+3. Compétences en Machine Learning : Les étudiants apprendront à utiliser des techniques de machine learning et deeplearning pour construire des modèles de prédiction, de classification, de clustering, etc.
+
+
+4. Compétences en data engineering : Les étudiants apprendront à concevoir et à mettre en place des architectures de données, à travailler avec des bases de données relationnelles et non relationnelles, à utiliser des outils ETL pour extraire, transformer et charger des données, etc.
+
+
+5. Compétences en visualisation de données : Les étudiants apprendront à communiquer efficacement les résultats de leur analyse de données en créant des visualisations claires et convaincantes.
+
+
+6. Compétences en gestion de données massives : Les étudiants apprendront à gérer des volumes importants de données, à travailler avec des systèmes distribués tels que Hadoop et Spark, et à utiliser des techniques de traitement en batch et en temps réel pour gérer des flux de données massives.
+
+
+7. Compétences en cybersécurité : Les étudiants apprendront à comprendre les risques de sécurité liés à la collecte, à la gestion et à l’analyse des données, et à appliquer les meilleures pratiques de cybersécurité pour protéger les données de leur entreprise.
+
+
+8. Compétences en gestion de projet agile : Les étudiants apprendront les principes de la gestion de projet agile et comment les appliquer aux projets de data science et de data engineering.
+
+
+9. Compétences en communication et en gestion de projet : Les étudiants apprendront à travailler en équipe, à gérer des projets de data science et de data engineering, à communiquer efficacement les résultats de leur analyse de données aux parties prenantes internes et externes, et à respecter les normes de confidentialité et d’éthique.
+Les métiers visés par la filière répondent à l’impératif de l’employabilité, dans un contexte marqué par les mutations incessantes des besoins du marché du travail aussi bien au niveau national qu’international. Voici quelques exemples des métiers ciblés :
+
+1. Ingénieur de données : l’ingénieur de données est responsable de la conception, de la mise en œuvre et de la maintenance des pipelines de données pour collecter, stocker et traiter les données. Ils travaillent en étroite collaboration avec les scientifiques des données pour s’assurer que les données sont accessibles et prêtes pour l’analyse.
+
+2. Architecte de données : l’architecte de données est responsable de la conception de l’architecture de données pour répondre aux besoins de l’entreprise. Ils s’assurent que les données sont stockées de manière efficace et sécurisée, et qu’elles peuvent être facilement accessibles pour l’analyse.
+
+3. Administrateur de bases de données : l’administrateur de bases de données est responsable de la gestion, de l’optimisation et de la maintenance des bases de données utilisées pour stocker les données. Ils travaillent en étroite collaboration avec les ingénieurs de données pour s’assurer que les bases de données sont configurées de manière optimale pour répondre aux besoins de l’entreprise.
+
+4. Développeur de logiciels de traitement de données : le développeur de logiciels de traitement de données est responsable de la conception, du développement et de la maintenance des logiciels de traitement de données utilisés pour collecter, stocker et traiter les données.
+
+5. Analyste de données : l’analyste de données est responsable de l’analyse des données pour aider l’entreprise à prendre des décisions éclairées. Ils utilisent des techniques d’analyse statistique et de visualisation de données pour extraire des informations à partir des données.
+
+6. Analyste de données en temps réel : l’analyste de données en temps réel est responsable de l’analyse en temps réel des données à mesure qu’elles sont collectées. Ils travaillent en étroite collaboration avec les ingénieurs de données pour s’assurer que les données sont collectées, traitées et analysées en temps réel pour fournir des informations en temps réel à l’entreprise.
+
+7. Scientifique de données : le scientifique de données est responsable de l’analyse et de l’interprétation des données pour aider l’entreprise à prendre des décisions éclairées. Ils utilisent des techniques d’apprentissage automatique, de statistiques et de visualisation de données pour extraire des informations à partir des données.
+
+8. Analyste en apprentissage automatique : l’analyste en apprentissage automatique est responsable de l’application de techniques d’apprentissage automatique pour résoudre des problèmes complexes liés aux données, tels que la prédiction, la classification et la recommandation.
+
+10. Consultant en ingénierie de données : le consultant(e) en ingénierie de données travaille avec les clients pour comprendre leurs besoins en matière de données et concevoir des solutions adaptées à leurs besoins. Ils peuvent travailler dans une variété d’industries, y compris les services financiers, la santé et les technologies de l’information.      
+Cursus de la filière "Sciences de Données (DATA)":
+     S1 : 
+        Recherche Opérationnelle
+ 	Analyse Numérique et Optimisation
+ 	Algorithmique et programmation en langage C
+	 Programmation Orientée Objet en Java
+	 Introduction aux systèmes d’exploitation
+	 Réseaux Informatiques
+ 	Introduction au traitement de signal
+ 	Introduction à la théorie de l’information
+	 Electronique Numérique
+	 Microcontrôleurs et architecture 8 bits
+	 Théorie des Probabilités et Applications
+	 Algèbre pour le Data Science
+ 	Introduction aux sciences économiques et de gestion
+	 Comptabilité Générale
+ 	English Studies
+ 	Techniques d’expression et de communication
+      S2 :
+         Statistique Appliquée
+ 	Modélisation Stochastique
+	 Bases de données Relationnelles
+	 Bases de données semistructurées
+	 Conception et Analyse des algorithmes
+ 	Théorie des langages et compilation
+ 	Informatique théorique
+ 	Ingénierie des systèmes d’exploitation
+ 	Administrationdes systèmes (Windows et Unix)
+ 	Introduction aux réseaux d’entreprise e tréseaux Télécom
+ 	Analyse et politique financière de l’entreprise
+	 Analyse économique des projets
+ 	English Studies
+ 	Techniquesd’expression et decommunication
+ 	Mini-Projet INE1 Développement / Conception et Data Science
+ 	Mini-Projet TEC:Développement Durable et Découverte 
+	Entreprises en TI
+ 	Langage Python
+      S3 : 
+         Modèles de régression
+	 Séries temporelles
+ 	Analyse et conception orientée objet
+ 	Développement Web JEE
+ 	Parallélisme et Algorithmique Répartie
+ 	Programmation Client-serveur
+ 	Virtualisation
+ 	Cloud Computing (PaaS, SaaS, IAAS) et Archi Distribuées
+ 	Introduction au langage Scala
+        Introduction aux Big Data
+ 	Introduction aux Bases de données NoSQL
+ 	Python pour la data science
+ 	Marketing et usages 2.0
+ 	Management de projets
+ 	English Studies
+ 	Techniques d’expression et de communication
+      S4 :
+         Systèmes intelligents
+ 	Machine et Deep Learning
+ 	Challenge Énigmes algorithmiques
+ 	Advanced Learning 
+	Mise en œuvre d'un SI décisionnel
+ 	SIG et Géolocalisation
+ 	Fouille de données et extraction de connaissances
+ 	Text Mining et Sociaux, média, et open data Analytics
+ 	Bases de la sécurité informatique
+ 	Audit de sécurité
+ 	Management général
+ 	Stratégies d’entreprises
+ 	English Studies
+ 	Techniques d’expression et de communication
+ 	Mini-Projet Développement- Intégration/ Conception Systèmes
+ 	Mini-Projet Bibliographie – Initiation Recherche
+      S5 :
+         Bases de données NoSQL Avancées
+ 	Big Data Avancées
+ 	Management de centres de données
+	 Mobile Applications Development
+ 	Développement et sécurité des applications web modernes
+ 	Advanced Learning et applications
+ 	Challenge/camp pour les data sciences
+ 	Visualisation et Data Analytics
+ 	Gouvernance SI
+	 Référentiels dela sécurité SI et Analyse des risques (EBIOS)
+ 	Communications multimédia P2P en temps réel sur le web et bases de données adaptées
+	 Ingénierie des systèmes temps réel et embarqués et bases de données adaptées
+ 	Entrepreneuriat et innovation
+	 Transformation digitale
+ 	Etudes d'anglais
+ 	Techniques d'expression et de communication
+
+
+La filière « Cybersécurité et Confiance Numérique » vise à former des ingénieurs experts en sécurité informatique et en infrastructure systèmes et réseaux capables de garantir la protection des ressources des entreprises et des utilisateurs de Internet et des services en ligne par la mise en place de solutions techniques et organisationnelles qui permettent un usage sécurisé du numérique.
+
+En effet, avec la montée des attaques informatiques et de l’abus d’usage des données personnelles collectées par les différentes applications utilisées par les citoyens, l’usage du numérique est confronté à une dégradation du niveau de confiance que l’utilisateur peut avoir dans sa relation avec le numérique.
+
+La filière « cybersécurité et confiance numérique » vise à restaurer la confiance des utilisateurs envers le numérique en permettant aux ingénieurs lauréats d’avoir le bagage technique et règlementaire nécessaire pour développer et mettre en place des infrastructures sécurisées pour un usage du numérique sûr, respectueux de la vie privée et garantissant une protection des données des différentes parties prenantes. Ce qui permet à la fin une utilisation du numérique d’une manière confiante et permettre par la suite un développement de son usage pour des services en ligne importants, tels que l’administration électronique, le e-commerce, le e-paiement etc.
+ 
+L’ingénieur « cybersécurité et confiance numérique » est capable d’assurer la protection des données et le bon fonctionnement des infrastructures techniques. Il doit protéger le système d’information contre les tentatives d’intrusion en mettant en place des solutions pour sécuriser les systèmes informatiques en garantissant la disponibilité des services, la préservation de l’intégrité et de la confidentialité des données de l’entreprise et à sécuriser les transactions électroniques.
+ 
+Cette formation permettra de répondre aux besoins du marché de l’emploi en terme de Cyber-Sécurité et Sécurité des systèmes d’information à l’échelle Nationale. Elle permettra de disposer au niveau des administrations, des organismes publics et des opérateurs des infrastructures d’importance vitale, de ressources humaines qualifiées en cyber sécurité et sécurité des systèmes d’informations.
+A l’issue de la formation, l’étudiant de la filièreaura acquis des compétences techniques, managériales et de communication qui lui permettront de répondre aux attentes des entreprises et de la société pour assoir un climat de confiance et de respect de la vie privée dans le monde du numérique actuel et de demain.
+
+L’étudiant sera notamment en mesure de :
+
+•    Concevoir des solutions de sécurité.
+•    Auditer la sécurité des systèmes d’information en respectant les référentiels de sécurité et les lois marocaines.
+•    Analyser les risques IT et produire des documents de cartographie des risques de sécurité pour une organisation.
+•    Élaborer des politiques de sécurité, les mettre en œuvre et s’assurer qu’elles sont respectées et appliquées.
+•    Évaluer les mesures de sécurité déployées et tester leur efficacité contre les attaques informatiques.
+•    Choisir les solutions et configurations techniques adaptées pour sécuriser les services numériques proposés par les organisations.
+•    Juger et évaluer le niveau de risques relatifs à l’usage du numérique et des services du Cloud par une organisation.
+•    Mettre en œuvre les moyens techniques et les démarches administratives pour la protection des personnes contre le traitement automatisé des données privées en respectant les lois en vigueur.
+•    Gérer les situations où un organisme est ciblé d’une attaque informatique.
+•    Mettre en œuvre les solutions techniques pour renforcer la sécurité des infrastructures IT d’une organisation.
+•    Concevoir des architectures réseaux sécurisées
+•    Concevoir de manière sécurisé l’infrastructure système d’une organisation
+•    Déployer des infrastructures système et réseaux et choisir les configurations adaptées pour répondre aux besoins de l’organisation.
+•    Maintenir dans un bon état de fonctionnement les infrastructures système et réseaux d’une organisation.
+•    Élaborer les configurations réseaux et systèmes pour mettre en œuvre l’infrastructure IT de l’organisation
+•    Évaluer la sécurité des applications Web et mobiles.
+
+En plus de ces compétences techniques, l’ingénieur de la filière « cybersécurité et confiance numérique »sera capable de :
+
+•    Gérer une équipe et faire preuve de leadership.
+•    Participer et collaborer efficacement avec les différents partenaires d’un projet.
+•    Communiquer oralement, en face à face et/ou devant un public, dans le cadre d’une prise de parole improvisée et/ou organisée, en utilisant une langue correcte et précise.
+•    Rédiger des écrits professionnels en tenant compte des exigences de la situation de communication.
+•    Innover et créer de nouveaux services.
+•    Respecter l’éthique à tout moment et dans toutes les situations.
+•    Faire preuve du respect de l’Humain dans ses actes et ses décisions.
+•    Prendre en considération le respect de l’Environnement
+
+L’ingénieur issu de cette filière sera apte à occuper divers postes liés à la sécurité informatique, couvrant une gamme variée de secteurs d’activités. Cette polyvalence s’explique par le fait que toutes les entreprises et organisations, qu’elles soient publiques ou privées, font face à l’impératif de sécuriser leurs données, ainsi que leurs infrastructures systèmes et réseaux.
+
+Les métiers potentiels ciblés sont :
+
+•    Ingénieur Confiance Numérique
+•    Ingénieur Architecte cybersécurité
+•    Ingénieur Analyste des incidents de sécurité
+•    Ingénieur Responsable de Sécurité de Systèmes d’Informations
+•    Ingénieur Sécurité Réseaux
+•    Ingénieur Sécurité Systèmes
+•    Ingénieur Auditeur de Sécurité de Systèmes d’Informations 
+•    Ingénieur Auditeur Technique de Sécurité 
+•    Ingénieur Analyste de Risque IT
+•    Ingénieur Réseaux
+•    Ingénieur Systèmes
+•    Ingénieur Responsable de Données
+•    Ingénieur Support Technique 
+•    Ingénieur Pentester des applications Web et mobile.
+Cursus de la filière "Cybersécurité et Confiance Numérique (ICCN)":
+          S1 : 
+         Théorie des graphes et optimisation
+ 	Calcul des probabilités
+	 Systèmes d’exploitation
+	 Ingénierie des systèmes d'exploitation
+	 Réseaux informatiques
+ 	Interconnexion et réseaux d’entreprise
+ 	Algorithmique et programmation en langage C
+	 Paradigme et programmation orientés objet
+	 Bases de données
+	 Électronique numérique
+	 Architecture des ordinateurs
+	 Micro-contrôleurs et interfaces
+ 	Introduction aux sciences économiques et de gestion
+ 	Comptabilité et finance de l’entreprise
+ 	English for computer sciences & information technology
+ 	Communication interpersonnelle I
+      S2 :
+         Statistique appliquée
+ 	Analyse des données
+	 Administration système
+ 	Administration des bases de données
+	 Sécurité système
+ 	Protocoles TCP/IP
+	 Fondements de la cyber-sécurité
+ 	Programmation avancée avec Python
+ 	Analyse et conception objet (UML)
+	 Développement web
+ 	Traitement du signal
+ 	Internet des objets
+	 Réseaux sans fil
+ 	Conduite de projet
+ 	Projet développement
+ 	English for computer sciences & information technology II
+	 Communication interpersonnelle II
+      S3 :
+        Cryptographie appliquée
+ 	Infrastructure de gestion des clés
+	 Sécurité des réseaux
+	 Virtualisation et conteneurisation
+	 Cloud computing
+ 	Parallélisme et algorithmique répartie
+ 	Multi-threading et programmation réseaux
+ 	Introduction au Big Data
+ 	DevOps et sécurité
+ 	Routage IP dans les réseaux de campus et Internet
+ 	Architectures des réseaux mobiles
+ 	Administration des services réseaux
+ 	Management général
+ 	Management des projets IT
+ 	English for business technology I
+	 Communication organisationnelle I
+      S4 : 
+        Programmation logique et systèmes experts
+	 Deep learning
+ 	Machine learning
+	 Projet ingénierie
+ 	Gestion de réseaux et services
+ 	Protocoles et services de sécurité
+ 	Algorithmique répartie pour la sécurité
+ 	Blockchain et distributed ledger technologies (DLTs)
+ 	Intégration et implémentation de IPv6
+ 	Fondement des réseaux futurs (SDN, QoS ...)
+ 	Tests de pénétration (ethical hacking)
+ 	Sécurité des services réseaux
+ 	Sécurité des applications web et modèles de sécurité (S-SDLC)
+ 	Marketing et usages 2.0
+ 	Cyberdroit
+ 	English for business technology II
+ 	Communication organisationnelle II
+      S5 :
+        Sécurité IoT et SCADA (industriel)
+	 Sécurité de cloud
+	 Conception des architectures réseaux et systèmes sécurisées
+	 Thème 1
+ 	Thème 2
+ 	Detection et gestion d'incidents de sécurité
+ 	Systèmes intelligents pour la cybersécurité
+	 Analyse et gestion des risques de sécurité
+ 	Référentiels de sécurité ISO 2700x
+ 	Audit de sécurité
+ 	Analyses des malwares, investigation forensic
+ 	Gestion des identités et d’accès (IAM)
+ 	Réglementation des marchés publics
+ 	Entrepreneuriat et innovation
+	 Management des services IT
+	 English for business and management
+ 	Communication pour insertion professionnelle
+
+
+La filière « Ingénierie logicielle avancée pour les services numériques » vise à former des ingénieurs capables d’exploiter les concepts avancés du génie logiciel et d’appliquer les règles de bonnes pratiques préconisées dans cette discipline pour développer dans les délais des services numériques sous forme de solutions logicielles fiables, robustes, portables, extensibles, échelonnables, et ce quel que soit le domaine d’application et le secteur d’activité.
+ 
+Les ingénieurs issus de cette filière maitrisent les différentes phases du développement logiciel depuis l’analyse des besoins (fonctionnels et non fonctionnels) des clients jusqu’à la mise en œuvre et le test en utilisant les méthodologies et outils technologiques les plus appropriés. En plus de leurs capacités de développement de solutions logicielles from scratch, ils peuvent être en charge de la maintenance et de l’évolution des solutions logicielles existantes.
+A l’issue de cette formation, en termes de compétences techniques, l’étudiant sera capable de:
+
+•    Choisir et appliquer une démarche de développement logiciel pour mettre en œuvre une solution logicielle répondant aux besoins d’un client et en tenant compte des spécificités de la solution à développer
+•    Explorer et analyser au préalable toutes les dimensions du problème posé en exploitant la documentation fournie et en échangeant avec les différentes parties prenantes. Il les reformule dans un cahier des charges sous forme d’exigences fonctionnelles et techniques
+•    Modéliser et élaborer l’architecture de la solution logicielle à développer en termes de composants fonctionnels (sous-systèmes). Il utilise les méthodes de vérification disponibles pour s’assurer du niveau de qualité de la solution à implémenter.
+•    Evaluer et sélectionner les outils technologiques qui répondent au mieux aux différents critères de performance et de qualité recherchés.
+•    Créer un prototype de la solution à concevoir pour vérifier qu’elle correspond aux attentes du client.
+•    Créer un jeu de tests pour s’assurer que la solution développée répond aux fonctionnalités du cahier des charges et identifier et remédier aux anomalies éventuelles.
+•    Utiliser des métriques et outils pour évaluer/valider la qualité structurelle de la solution développée en terme de sécurité, d’ergonomie, de maintenabilité.
+
+En termes de compétences en management et de travail en équipe, l’étudiant sera capable de:
+
+•    Contribuer en équipe à la conduite d’un projet en explorant la problématique et le contexte du projet, les enjeux et les contraintes en présence.
+•    Rédiger avec ses collègues un cahier des charges de cadrage du projet
+•    Contribuer à la planification du plan de travail
+•    Contribuer à résoudre collectivement les difficultés techniques et conflits éventuels rencontrés au sein de l’équipe
+•    Faire preuve du respect des engagements pris au cours de la planification du projet et informer les équipiers sur les décisions à prendre en cas de dérive ou de blocage
+
+En termes de compétences en communication, l’étudiant sera capable de :
+
+•    Communiquer efficacement oralement et par écrit en vue de mener à bien les projets qui lui sont confiés dans son environnement de travail
+•    Echanger avec tous les acteurs d’un projet de développement logiciel, et leur faire expliciter leurs besoins, attentes et contraintes.
+•    Fournir à ses interlocuteurs une vue synthétique de la situation pour faciliter la prise de décision.
+•    Assurer la traçabilité et la documentation dans un langage concis et précis.
+•    Rédiger correctement un rapport de synthèse décrivant et argumentant les choix (design et technologie) opérés dans le développement d’une solution.
+•    Communiquer oralement, en face à face et/ou devant un public,
+
+En termes de compétences en soft skills, l’étudiant sera capable de :
+
+•    Faire preuve à la fois d’autonomie, de prise d’initiative, de confiance en soi, de gestion de l’imprévu, de rigueur, d’ouverture, d’esprit critique, de sens de responsabilité et respect de l’éthique de la profession dans son travail.
+•    Prendre en compte les enjeux socio-économiques d’un projet à caractère industriel aussi bien pour l’usager que pour son environnement et ce, dès la rédaction d’un cahier des charges.
+•    Assurer la robustesse et la fiabilité à l’épreuve des aléas de l’environnement de travail des utilisateurs pour les projets critiques.
+•    S’organiser pour explorer un problème informatique dont le sujet et le contexte sont nouveaux pour lui et se procurer les informations nécessaires pour faire un état des lieux via divers canaux à sa disposition.
+•    Respecter l’éthique à tout moment et dans toutes les situations.
+Les métiers visés par la filière répondent à l’impératif de l’employabilité, dans un contexte marqué par les mutations incessantes des besoins du marché du travail aussi bien au niveau national qu’international. Les métiers visés sont :
+
+•    Ingénieur logiciel
+•    Ingénieur étude et développement
+•    Ingénieur développement web full-stack
+•    Ingénieur développement web backend
+•    Ingénieur développement web frontend
+•    Ingénieur développement mobile
+•    Ingénieur développement cloud
+•    Ingénieur développement blockchain
+•    Architecte logiciel
+•    Ingénieur QA
+•    Intégrateur d’applications
+•    Ingénieur IoT
+•    Ingénieur DevOps/SRE
+•    Ingénieur plateforme (Platform engineer)
+•    Ingénieur data
+•    Ingénieur système décisionnel
+•    Ingénieur produit (Product engineer)
+•    Manager de projet
+•    Product Owner
+•    Analyste SI
+•    Manager SI
+•    Urbaniste SI
+•    Architecte d’entreprise
+
+Cursus de la filière "Ingénierie Logicielle Avancée pour les Services Numériques (ASEDS)":
+        S1: 
+          Probabilités et Statistique
+	 Algorithmique et Structures de Données
+	 Programmation Orientée Objet I
+	 Programmation Orientée Objet II
+	 Bases du Développement Web
+	 Bases de la Sécurité Informatique
+	 Bases de Données Relationnelles
+ 	 Bases de Données NoSQL
+ 	 Architecture des Ordinateurs
+ 	 Ingénierie des Systèmes d’Exploitation
+ 	 Introduction aux Réseaux Informatiques
+ 	 Protocoles Réseaux des Couches Hautes
+ 	 Introduction aux Sciences Economiques et de Gestion
+	 Comptabilité Générale
+ 	English for Computer Science & Information 
+	Technology I
+ 	Communication Interpersonnelle I
+      S2:
+	 Projet de Développement
+ 	Recherche Opérationnelle
+	 Algorithmique Avancée
+	 Analyse et Conception Objet
+ 	Cycle de Développement Logiciel et Méthodes 
+	Agiles
+	 UX/UI Design
+ 	Introduction à l’Informatique Visuelle
+	 Administration Système
+	 Administration des Bases de Données
+ 	Introduction aux Réseaux de Télécommunications
+	 Parallélisme et Algorithmique Répartie
+	 Analyse et Politique Financière de l’Entreprise
+	 Analyse Economique des Projets
+	 English for Computer Science & Information 
+	Technology II
+	 Communication Interpersonnelle II
+ 	
+      S3: 
+         Conteneurisation des Applications
+ 	DevOps
+	 Machine Learning
+ 	Systèmes Décisionnels
+ 	Paradigmes de Programmation
+	 Théorie des Langages et Compilation
+	 Architecture Logicielle
+ 	Conception et Gestion des API
+ 	Code Refactoring & Design Patterns
+ 	Test Logiciel et Qualimétrie
+ 	Développement des Applications Web I
+ 	Ingénierie des Applications Mobiles Natives
+ 	Marketing et Usages 2.0
+ 	Management Général
+ 	English for Business Technology I
+ 	Communication Organisationnelle I
+      S4:
+        Développement des Applications Web II
+ 	Ingénierie des Applications Mobiles 
+	Multiplateformes
+ 	Cloud Computing
+ 	Ingénierie des Applications IoT
+ 	Ingénierie des Données
+ 	Big Data
+ 	Sécurité dans le Cycle de Développement Logiciel
+ 	Sécurité des Applications Web et Mobile
+ 	Projet d’Ingénierie
+ 	Stage INE1
+	 Conception des Systèmes Distribués
+ 	Architectures Logicielles Distribuées
+ 	Management de Projets IT
+ 	Stratégies d’Entreprises
+ 	English for Business Technology II
+ 	Communication Organisationnelle II
+      S5: 
+         Blockchain et Web 3
+ 	Deep Learning
+ 	Ouverture sur les Nouvelles Tendances IT
+	 Stage INE2
+ 	Intégration d’Applications d’Entreprise
+ 	Urbanisation et BPM
+ 	Model Driven Architecture (MDA)
+ 	Domain Specific Languages (DSL)
+ 	Référentiels des Bonnes Pratiques SI
+ 	Transformation Digitale
+ 	Développement Cloud
+ 	Architecture Cloud
+ 	Entrepreneuriat et Innovation
+ 	Droit Digital
+ 	English for Business and Management
+ 	Communication pour Insertion Professionnelle
+
+
+La filière « Ingénierie des Technologies de l’Information et de Communication Intelligentes (Smart ICT) »vise à former des étudiants dans les domaines des technologies de l’information et de communications intelligentes. Cette formation permettra, à nos ingénieurs, de poser et résoudre de manière performante et innovante des problèmes souvent complexes, de création, de conception, de réalisation, de mise en œuvre, au sein d’une organisation compétitive, de produits, de systèmes ou de services, éventuellement de leur financement et de leur commercialisation.
+ 
+A l’issue de la formation de la filière, l’ingénieur sera capable de :
+
+-    Concevoir, planifier, développer et réaliser les architectures, les plateformes et les solutions techniques et technologiques des réseaux de nouvelle génération des télécommunications, selon les besoins et la stratégie de l’entreprise ou du client, notamment pour les réseaux électriques intelligents (Smart-Grid), pour les systèmes de transport intelligents et pour une connectivité intelligente, en tenant compte de la mobilité du traﬁc des données massives et de l’énergie des équipements.
+-    Concevoir, optimiser, développer et réaliser les solutions pour le traitement des données de grande masse issues des systèmes intelligents (IoT, Réseaux de Capteurs sans ﬁl, Médical, Agriculture, Données d’Entreprises, Internet, etc.), en passant par leur génération, leur acquisition, leur stockage et leur analyse. Ceci dit, l’Ingénieur doit être capable d’exploiter les outils et les logiciels permettant le traitement des données massives (Big Data), et à même de développer des solutions propres d’analyse et d’interprétation de l’information émanant des grands réseaux ou des systèmes intelligents.
+-    Garantir du bon fonctionnement et de la qualité de l’infrastructure sur les plans matériel et logiciel, de participer à son évolution et piloter les projets d’intégration et de modernisation dans le domaine.
+-    Conseiller et orienter les choix de l’entreprise en matière de solutions technologiques intelligentes, et de participer aux négociations avec les prestataires.
+-    Encadrer une équipe de techniciens en réseaux et systèmes de nouvelle génération pour une meilleure exécution des solutions adaptées aux clients de l’entreprise.
+-    Superviser les opérations de transferts technologiques (déménagement d’infrastructures, site annexe de back up, etc.), et réaliser aussi des opérations de veille et d’optimisation des ressources.
+ Les compétences à acquérir par l’ingénieur de la filière  ont été soigneusement conçues afin de faciliter son intégration dans le monde professionnel, l’aidant ainsi à relever les défis et à répondre aux besoins du secteur en matière d’interactivité, de savoir-faire et de savoir-être .Ce changement dans la définition même du rôle de l’ingénieur nous pousse à adopter une nouvelle approche pédagogique, permettant à l’étudiant ingénieur d’acquérir des compétences tant majeures que mineures qui englobent la personnalité de l’ingénieur dans sa globalité.
+ 
+D’une manière générale, les compétences ciblées peuvent être déclinées comme suit :
+ 
+Compétences en savoir-faire:
+ 
+La formation repose sur des enseignements fondamentaux en télécommunications, constituant le socle de base. Elle met l’accent sur les principes d’ingénierie fondamentale des sciences du développement informatique, du traitement et de l’analyse de l’information issue de systèmes et réseaux de grande envergure, des sciences visant à optimiser la connectivité dans les réseaux intelligents, ainsi que des sciences des objets connectés, des capteurs et de leur fonctionnement en réseau. De plus, une part significative de la formation sera dédiée à la gestion et à la conduite de projets dans le domaine des technologies intelligentes de l’ICT.
+ 
+À l’issue de cette formation, l’ingénieur en « Smart ICT » sera doté des compétences suivantes en termes de savoir-faire :
+ 
+-    Concevoir, planifier, développer et réaliser les architectures, les plateformes et les solutions techniques et technologiques des réseaux de nouvelle génération des télécommunications ;
+-    Concevoir, optimiser, développer et réaliser les solutions pour le traitement des données de grande masse issues des systèmes intelligents ;
+-    Exploiter les outils et les logiciels permettant le traitement des données massives (Big Data);
+-    Développer des solutions propres d’analyse et d’interprétation de l’information émanant des grands réseaux ou des systèmes intelligents ;
+-    Garantir du bon fonctionnement et de la qualité de l’infrastructure sur les plans matériel et logiciel ;
+-    Superviser les opérations de transferts technologiques ;
+-    Piloter des projets d’intégration et de modernisation dans le domaine de ICT ;
+-    Conseiller et orienter les choix de l’entreprise en matière de solutions technologiques intelligentes ;
+-    ….
+
+Compétences en savoir être :
+ 
+-    Maîtrise de la communication dans la langue de travail ainsi que dans au moins une autre langue.
+-    Acquisition d’une éducation générale, reflétée à travers le savoir et le savoir-être, tant au niveau national qu’international, afin de former des ingénieurs aptes à diriger des équipes.
+-    Ouverture à l’international, impliquant l’apprentissage d’autres cultures et de différentes méthodes de travail, à travers des programmes conçus et validés par nos partenaires académiques.
+-    Adaptabilité face au changement.
+-    Développement de compétences techniques au-delà de la spécialité.
+-    Intégration des disciplines de l’entreprise et de la société.
+-    Acquisition de compétences professionnelles par le biais de stages, rédactions et présentations orales, ainsi que des simulations de recherche d’emploi.
+En ce qui concerne les métiers visés par la filière, le programme de la filière a été élaboré en se basant sur un benchmarking, réalisé en partenariat avec le monde de l’entreprise et qui a amené à des besoins en compétences et métiers pour l’entreprise et l’industrie au Maroc et à l’étranger. Ces compétences et métiers sont essentiellement orientés vers le numérique.
+ 
+Les métiers ciblés par la filière sont comme suit :
+ 
+-    Ingénieur des Infrastructures réseaux et services : architecture, construction, exploitation et maintenance des infrastructures réseaux et services ;
+-    Ingénieur des Systèmes de communication : Conception, déploiement et administration des systèmes de communication (4G, 5G et générations futures) ;
+-    Ingénieur en qualiﬁcation des réseaux ;
+-    Ingénieur en traitement du signal et traitement de données pour la réalisation des applications de détection, de caractérisation, de prédiction qui sont essentielles pour la surveillance et l’intégrité des systèmes.
+
+Cursus de la filière "Ingénierie des Technologies de l’Information et de Communication Intelligentes (Smart-ict) "
+      S1:
+         Algorithmique et Programmation en langage C
+ 	Architecture des Ordinateurs
+	 Systèmes d'Exploitation
+ 	Statistique et Processus Stochastiques
+ 	Recherche Opérationnelle
+ 	Traitement de Signal
+ 	Synthèse des Filtres
+	 Théorie de l’Information et Codage
+	 Média de Transmission
+ 	Réseaux ICT
+ 	Introduction aux sciences économiques et de gestion
+ 	Comptabilité Générale
+ 	Anglais
+   	Tec
+     S2 : 
+         Programmation Orientée Objet / Python
+ 	Bases de Données et Programmation Web
+	 Statistical Learning
+	 Techniques d’Optimisation
+ 	Communications numériques
+ 	Traitement de l’information visuelle
+        Partage et Techniques de Multiplexage
+ 	Évolution des Réseaux Télécoms
+ 	Projet Thématique 
+	Analyse et Diagnostic financier
+	 Management Général
+	 Anglais
+ 	TEC
+      S3 :
+        Machine Learning et Deep Learning
+ 	Concepts et Langages Big Data
+ 	Décision et Estimation
+ 	Techniques pour Communications Mobiles
+ 	Antennes
+ 	Concepts Réseaux Mobile
+	 Communications FH et Satellite
+	 Conception et Modélisation des Réseaux
+	 TCP/IP et Interconnexion
+	 Projet Développement
+	 Marketing et usages 2.0
+ 	Analyse Economique de projet
+ 	Anglais
+ 	TEC
+      S4 :
+        Virtualisation et Cloud Computing
+ 	Réalité Virtuelle et Augmentée
+ 	Fondamentaux de Cyber Sécurité
+ 	Technique d’accès Large Bande
+        Réseaux Mobiles 3G/4G
+ 	Gestion des Réseaux
+ 	Services IP et Multimédia
+ 	Technologies des Réseaux Sans Fils
+ 	SIG et Géolocalisation
+	 Projet Innovation ICT
+	 Conduite de Changement IT
+ 	Management des projets
+ 	Anglais
+ 	TEC
+      S5 :
+         Sécurité des Réseaux Emergents
+ 	Réseaux de Confiance et BlockChain
+ 	Communication IoT
+ 	Systèmes de Supervision - SCADA
+ 	Technologies 5G/5G+
+ 	Smart Radio 5G
+	 Réseaux Cœurs 5G
+          Smart Géolocalisation
+ 	Systèmes de Transport Intelligents
+ 	Énergie
+ 	Connectivité
+ 	Projet SMART ICT
+ 	Transformation Digitale
+ 	Entrepreneuriat et innovation
+ 	Anglais
+ 	TEC 
+
+
+
+
+La filière « Systèmes Embarqués et Services Numériques » vise à former des ingénieurs capables de maîtriser l’ensemble du processus de développement d’un système embarqué, de sa conception à sa mise en œuvre, en passant par la réalisation de sa partie électronique et informatique. Les objectifs de cette formation sont les suivants :
+
+•    Acquérir les connaissances en électronique, en informatique nécessaires pour concevoir et réaliser des systèmes embarqués.
+•    Maîtriser les techniques de programmation des microcontrôleurs, des processeurs, des FPGA et des autres composants électroniques utilisés dans les systèmes embarqués.
+•    Comprendre les protocoles de communication et les interfaces de programmation couramment utilisés dans les systèmes embarqués.
+•    Concevoir et implémenter des circuits électroniques pour les applications embarquées.
+•    Concevoir et développer des logiciels pour les systèmes embarqués, en utilisant des langages de programmation tels que C/C++, Java, Python, etc.
+•    Intégrer les technologies de l’Internet des objets (IoT) et de l’intelligence artificielle (IA) dans les systèmes embarqués.
+•    Acquérir les compétences en gestion de projet nécessaires pour mener à bien des projets de développement de systèmes embarqués.
+La filière « Systèmes Embarqués et Services Numériques » vise à fournir aux étudiants un ensemble de compétences clés nécessaires pour concevoir, développer et mettre en œuvre des systèmes embarqués. Les compétences que les étudiants peuvent acquérir au cours de cette formation comprennent :
+
+•    Compétences en électronique : Les étudiants peuvent acquérir des compétences en conception de circuits électroniques, en programmation de microcontrôleurs, en traitement de signaux, en communication sans fil, en énergie et en gestion de puissance.
+•    Compétences en informatique : Les étudiants peuvent acquérir des compétences en programmation de systèmes embarqués, en développement de logiciels, en algorithmique, en architecture des ordinateurs et en gestion de bases de données.
+•    Compétences en communication : Les étudiants peuvent acquérir des compétences en communication technique, en présentation et en négociation.
+•    Compétences en gestion de projet : Les étudiants peuvent acquérir des compétences en gestion de projet, en planification, en gestion des ressources, en budgétisation et en leadership.
+•    Compétences en IoT et IA : Les étudiants peuvent acquérir des compétences en intégration de technologies de l’Internet des objets (IoT) et de l’intelligence artificielle (IA) dans les systèmes embarqués.
+•    Compétences en innovation : Les étudiants peuvent acquérir des compétences en innovation, en créativité, en résolution de problèmes et en pensée critique.
+•    Compétences en gestion de projet : Les étudiants doivent être en mesure de planifier et d’organiser des projets de développement de systèmes embarqués en définissant les tâches, les ressources nécessaires, les délais, les budgets et les risques associés.
+La filière « Systèmes Embarqués et Services Numériques » offre de nombreuses opportunités de carrière aux diplômés. Les étudiants ayant suivi cette formation peuvent se spécialiser dans un large éventail de domaines, notamment :
+
+•    L’industrie automobile : Les systèmes embarqués sont de plus en plus utilisés dans les voitures modernes pour la gestion de la conduite, la sécurité et le divertissement.
+
+•    L’industrie aérospatiale : Les systèmes embarqués sont essentiels dans l’industrie aérospatiale pour la navigation, la communication et la sécurité.
+
+•    L’industrie électronique grand public : Les systèmes embarqués sont de plus en plus utilisés dans les appareils électroniques grand public, tels que les smartphones, les tablettes et les montres connectées.
+
+•    Les systèmes d’information et de communication : Les systèmes embarqués sont utilisés pour la communication sans fil, la surveillance de la sécurité, la gestion de la circulation, etc.
+
+•    L’industrie médicale : Les systèmes embarqués sont utilisés pour la surveillance des patients, la gestion de la santé et le développement de dispositifs médicaux.
+
+•    Les startups et les entreprises innovantes : Les diplômés ayant acquis des compétences en innovation peuvent utiliser leurs connaissances pour créer leur propre entreprise ou travailler dans une startup.
+Les diplômés de cette filière peuvent occuper des postes tels que :
+
+•    Ingénieur en systèmes embarqués : Les ingénieurs en systèmes embarqués conçoivent, développent et testent des systèmes embarqués pour diverses industries.
+
+•    Ingénieur de développement logiciel embarqué : Ces ingénieurs se concentrent sur le développement de logiciels pour les systèmes embarqués.
+
+•    Ingénieur de test et de validation : Les ingénieurs de test et de validation sont chargés de tester et de valider les systèmes embarqués pour s’assurer qu’ils sont fiables et fonctionnent correctement.
+
+•    Ingénieur en conception de matériel : Les ingénieurs en conception de matériel se concentrent sur la conception de circuits imprimés et d’autres composants matériels nécessaires pour les systèmes embarqués.
+
+•    Ingénieur de développement logiciel et service numériques : Ces ingénieurs travaillent sur le développement et de la mise en œuvre de logiciels pour une variété de plateformes et d’applications.
+
+•    Ingénieur en automatisation industrielle : Ces ingénieurs travaillent sur la conception et la mise en place de systèmes automatisés pour les industries manufacturières et de production.
+Cursus de la filière "Systèmes Embarqués et Services Numériques(Sesnum)":
+      S1: 
+	Electronique Numérique
+ 	Electronique Analogique
+ 	Signaux et Systèmes
+ 	Théorie de l'Information
+ 	Support de Transmission
+ 	Algorithmique et Programmation en Langage C
+ 	Microcontrôleurs
+ 	Paradigme et Programmation Orienté Objet
+ 	Architecture des Systèmes Numériques
+ 	Systèmes d'Exploitation
+ 	Réseaux Informatiques
+ 	Introduction aux Sciences Économiques et de Gestion
+	 Projet par Mise en Situation
+ 	Communication Interpersonnelle I
+ 	English for Information Technology 
+      S2 :
+        Ingénierie Orientée Objet
+ 	Bases de Données Relationnelles
+ 	Développement Web
+ 	Fonctions Électroniques
+ 	Electronique Analogique Rapide
+ 	Systèmes RF & Microondes
+	 Langages de Description Matériel (VHDL)
+ 	Logique Programmable & Synthèse sur FPGA
+ 	Mixed-Signal Circuits
+ 	Bus et Protocoles de Communication
+ 	Ordonnancement et OS Temps Réel
+ 	Management de Projet
+	 Projet de Développement
+ 	English for Information Technology II
+ 	Communication Interpersonnelle I
+      S3 :
+        Capteurs et Actionneurs
+ 	Fondements du Big Data
+ 	Virtualisation et Cloud Computing
+	 Synthèse des Filtres
+ 	Digital Signal Processors (DSP)
+ 	Traitement Numérique du Signal sur FPGA
+ 	Machine Learning et Deep Learning
+ 	Language de Programmation Graphique
+ 	Développement d'Applications Mobiles
+ 	Circuits Intégrés Numériques VLSI
+ 	System on Chip (SoC)
+ 	Commande Numérique des Systèmes
+ 	Comptabilité Générale
+ 	Analyse et Politique Financière de l’Entreprise
+ 	English for Business Technology I
+ 	Communication Organisationnelle 
+      S4 : 
+        Réseaux Locaux et LPWAN pour IoT
+ 	Réseaux mobiles et satellitaires
+ 	Cryptographie et Sécurité Matérielle
+ 	Sécurité des Cartes à Puce et Java Card
+	 Sécurité des Applications Web et Mobiles
+ 	Architectures Avancées et Parallélisme
+        Plateformes et Technologies de l’IoT
+        Systèmes Répartis
+ 	Intelligence Artificielle et Vision par Ordinateur
+ 	Projet d'Initiation à la Recherche
+	 Projet d'Ingénierie
+ 	Analyse Économique et Financière des Projets
+ 	Management Général
+ 	Marketing et Usages 2.0
+	 English for Business Technology II
+ 	Communication Organisationnelle II
+      S5: 
+        Cybersécurité des Systèmes Embarqués
+ 	Blockchain & Smart Contract
+ 	Automates Programmables Industriels & SCADA
+ 	Qualité des Systèmes et Logiciels Embarqués
+ 	Élément de Module au Choix 1
+ 	Élément de Module au Choix 2
+ 	Projet d'Insertion Professionnelle - Séminaires
+ 	Projet d’Ouverture et d'Innovation
+ 	Économie Digitale
+ 	Entrepreneuriat et Innovation
+ 	English for Business and Management
+ 	Communication pour l'Insertion Professionnelle
+
+
+
+
+
+La filière « Ingénierie des Systèmes Ubiquitaires et Distribués – Cloud et IoT » vise à former des ingénieurs capables de conduire la politique proactive de digitalisation de l’administration et des entreprises au Maroc. Sans la disponibilité sur le marché du travail d’ingénieurs possédant les compétences nécessaires, la réussite de cette transition numérique serait compromise.
+ 
+La digitalisation, inévitable dans ce contexte, ne peut ignorer l’essor rapide de l’Internet des Objets (IoT), qui a pris d’assaut non seulement le monde des entreprises, mais aussi celui des citoyens. L’émergence de milliards d’objets connectés génère d’importantes quantités de données, requérant un traitement, un stockage et une analyse adéquats.
+ 
+Pour répondre à ces besoins, la puissance de calcul des machines continue d’augmenter grâce à la virtualisation des services et à l’adoption de techniques de cloud computing. Le cloud computing, qui consiste à mettre en réseau des machines distribuées, permet de faire face à une demande croissante en puissance de traitement.
+ 
+Enfin, le stockage des données est souvent externalisé vers des centres spécialisés tels que les centres de données (Data Centers). Ainsi, l’entreprise du futur adoptera un modèle centré sur son cœur de métier, externalisant le traitement et le stockage de ses données, que ce soit en interne ou en externe.
+ 
+Dans ce contexte, la filière « Ingénierie des Systèmes Ubiquitaires et Distribués – Cloud et IoT » forme des ingénieurs qui joueront un rôle essentiel en tant que chefs de projet, intégrant les compétences en IoT et le développement d’infrastructures cloud pour relever les défis de l’avenir.
+Les compétences à développer pour les ingénieurs ont été soigneusement conçues dans le but de favoriser leur intégration complète dans la société en relevant les défis et en répondant aux besoins en interactivité, en savoir-faire et en savoir-être. Ce changement dans la définition même du rôle de l’ingénieur nous pousse à adopter une nouvelle approche pédagogique, permettant à l’étudiant ingénieur d’acquérir des compétences tant majeures que mineures couvrant l’ensemble de la personnalité de l’ingénieur.
+ 
+De manière générale, les compétences visant à accroître l’employabilité peuvent être déclinées comme suit :
+
+Compétences en savoir faire
+
+-    Connaissances fondamentales représentant le socle de base
+-    Principes d’ingénierie fondamentale des sciences informatiques
+
+ Compétences en conception
+
+-    De systèmes ubiquitaires, en particulier l’internet des objets (IoT)
+-    Des solutions Cloud au niveau infrastructure et applicatif
+-    Des solutions de Big Data en termes de stockage et de traitement
+
+ Compétences en Innovation
+
+-    De nouveaux services
+-    De nouvelles applications
+-    Dans les systèmes ubiquitaires
+-    Dans les systèmes embarqués
+-    Dans les architectures informatiques
+
+ Compétences en Opérabilité
+
+-    Gestion de projets
+-    Gestion de réseaux
+-    Systèmes embarqués
+ 
+Compétence en savoir être
+
+-    Maîtrise de la communication dans la langue de travail ainsi que dans au moins une autre langue.
+-    Acquisition d’une éducation générale, reflétée à travers le savoir et le savoir-être, tant au niveau national qu’international, afin de former des ingénieurs aptes à diriger des équipes.
+-    Ouverture à l’international, impliquant l’apprentissage d’autres cultures et de différentes méthodes de travail, à travers des programmes conçus et validés par nos partenaires académiques.
+-    Adaptabilité face au changement.
+-    Développement de compétences techniques au-delà de la spécialité.
+-    Intégration des disciplines de l’entreprise et de la société.
+-    Acquisition de compétences professionnelles par le biais de stages, rédactions et présentations orales, ainsi que des simulations de recherche d’emploi.
+Les métiers visés par la filière répondent à l’impératif de l’employabilité, dans un contexte marqué par les mutations incessantes des besoins du marché du travail aussi bien au niveau national qu’international. Les métiers visés par la filière sont comme suit :  
+
+-    Ingénieur de Développement de logiciels
+-    Ingénieur des Systèmes Ubiquitaires
+-    Ingénieur de Big Data
+-    Ingénieur d’Intégration
+-    Ingénieur de Développement de services
+-    Ingénieur Système et Réseau
+-    Ingénieur de Déploiement Cloud
+-    Ingénieur des systèmes embarqués
+-    Ingénieur d’Exploitation Cloud
+-    Ingénieur Entrepreneur
+-    Ingénieur Chercheur
+-    Architecte Réseaux
+-    Ingénieur de Sécurité des Systèmes, Applications et Services
+Cursus de la filière "Ingénierie des Systèmes Ubiquitaires et Distribués – Cloud et IoT":
+      S1:
+	   Mathématiques pour l’ingénieur
+ 	Probabilités et applications
+	 Statistique appliquée
+ 	Programmation en C
+ 	Programmation en Python
+ 	Développement orienté objet en C++
+ 	Systèmes d’exploitation
+ 	Réseaux de communication
+ 	Circuits et architectures matérielles
+ 	Traitement du signal
+ 	Théorie de l’information et du codage
+ 	Communication analogique et numérique
+ 	Projet personnel et professionnel (PPP)
+ 	Ateliers d’ingénierie
+ 	Économie du Maroc
+ 	Déontologie et éthique de l’ingénieur
+ 	Anglais pour l’ingénieur
+ 	TEC et développement personne
+      S2 :
+         Optimisation linéaire et non-linéaire
+ 	Modélisation stochastique et applications
+ 	Théorie des graphes et ordonnancements
+ 	Structures de données et algorithmes
+ 	Analyse et conception des algorithmes
+ 	Théorie des langages et compilation
+ 	Réseaux locaux et interconnexions
+ 	Programmation et administration systèmes
+ 	Bases de la sécurité informatique
+ 	Bases de données relationnelles
+ 	Processus de développement logiciel
+ 	Développement des applications sur mobiles
+ 	Projet personnel et professionnel (PPP)
+ 	Ateliers d’ingénierie
+ 	Comptabilité générale
+ 	Développement durable et green TIC
+ 	Anglais pour l’ingénieur
+	 TEC et développement personne
+     S3 : 
+         Mémoires et interfaces matérielles
+ 	Systèmes temps réel et embarqués
+	 Algorithmes parallèles et répartis
+ 	Design patterns et frameworks
+ 	Middlewares et architectures distribuées
+ 	Bases de données NoSQL et BigData
+ 	Techniques de virtualisation et conteneurisation
+ 	Sécurité des systèmes d’exploitation
+ 	Architectures et services cloud
+ 	Sécurité des réseaux de communication
+ 	Réseaux de capteurs sans fil
+ 	Réseaux mobiles
+ 	Projet personnel et professionnel (PPP)
+ 	Ateliers d’ingénierie
+ 	Management des projets
+ 	Analyse financière des projets
+ 	TEC et développement personnel
+ 	Anglais pour l’ingénieur
+     S4:
+	Plateformes et solutions cloud
+ 	Sécurité du cloud et de l’IoT
+ 	Data-centers, services et réseaux de stockage
+ 	Fondements du DevOps
+	 Plateformes et technologies DevOps
+	 SOA et développement des applications Web
+ 	Fondements de l’IoT: Devices et connectivité
+ 	Fondements de l’IoT: Networking et protocoles
+ 	Développement des applications/services IoT
+ 	Traitement distribué du BigData
+ 	Data mining et warehousing
+ 	Pattern recognition et machine learning
+	 Projet personnel et professionnel (PPP)
+ 	Ateliers d’ingénierie
+ 	Management des risques
+ 	Marketing digital
+ 	TEC et développement personnel
+ 	Anglais pour l’ingénieur
+      S5 :
+	Applications et communications P2P
+ 	Sécurité des applications
+ 	Virtualisation pour l’IoT
+ 	5G et le cloud
+ 	Développement des applications/services cloud
+ 	Monitoring des systèmes
+ 	Introduction à la R&D
+ 	Séminaires
+ 	Projet personnel et professionnel (PPP)
+ 	Ateliers d’ingénierie
+ 	Innovation et startups
+ 	Marchés des capitaux
+ 	TEC et développement personnel
+	 Anglais pour l’ingénieur
+ 
+
+
+

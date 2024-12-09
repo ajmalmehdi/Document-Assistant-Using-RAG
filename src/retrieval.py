@@ -2,12 +2,12 @@ from langchain.prompts import ChatPromptTemplate
 from langchain_chroma import Chroma
 
 PROMPT_TEMPLATE = """
-Répondez à la question en vous basant uniquement sur le contexte suivant:
+Answer the question based only on the following context:
 
 {context}
 
 ---
-repodeez à la question on ce basant sur le contexte ci-dessus: {question}
+Answer the question based on the context above: {question}
 """
 
 def query_rag(query_text, chroma_path, embedding_model, llm_model):

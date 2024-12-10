@@ -1,0 +1,956 @@
+The "Innovation and AMOA" program aims to train engineers who possess diverse skills enabling them to play multiple roles. As an engineer in innovation and AMOA, one can stand out as an entrepreneur by realizing innovative projects in the digital domain, notably through the creation of a high-growth startup, thereby contributing to the development of the digital ecosystem.
+
+At the same time, they can also assume the role of an intrapreneur by successfully leading digital transformation within a company. Their mission involves synchronously integrating suitable technologies and a new digital culture within the company, implementing innovative methodologies, and overseeing the change process. This support role may also include assisting with project management for information systems, translating the functional needs of a client into technological solutions that meet business objectives (accounting, human resources, logistics, sales, production, etc.) and economic and logistical constraints. They conduct negotiations with IT professionals throughout the design and implementation process in the interest of the company and final users.
+
+The actions of the innovation and AMOA engineer are based on an innovative approach that promotes co-creation, analytical and intuitive thinking in service of the end client. This approach allows them, among other things, to design the user journey and experience across various platforms, adhering to the highest standards and norms.
+
+The targeted skills of the program can be outlined as follows:
+
+Major Skills
+
+Analysis and modeling
+Strategy and decision-making
+Organization and Management of Information Systems
+Management and development of ERP projects
+Management and development of CRM projects
+Management and development of BI projects
+Project management in IS
+Industrial and Logistics Information Systems
+Practical Skills
+
+Translating needs into functionalities
+Coordination and project management capability
+Proposal of innovative solutions
+Startup creation
+Interpersonal Skills
+
+Mastery of communication in the working language as well as in at least one other language.
+Acquisition of a general education, reflected through knowledge and interpersonal skills, both nationally and internationally, to prepare engineers capable of leading teams.
+Openness to international perspectives, involving the learning of other cultures and different working methods through programs designed and validated by our academic partners.
+Adaptability to change.
+Development of technical skills beyond specialization.
+Integration of business and societal disciplines.
+Acquisition of professional skills through internships, writing, oral presentations, and job search simulations.
+The "Innovation & AMOA" program prepares students for positions as Manager/Consultant in Information Systems, with an integrated leadership dimension. Career opportunities include roles such as:
+
+SI Manager
+Project Manager
+ERP Consultant (CRM, SCM, SRM, BI)
+SI and BPM Architect
+e-Business Manager
+IT Security Manager.
+The sought profiles particularly include specialized managers in Information Systems, SAP, Business Intelligence (BI), and Business Process Management (BPM). These skills are highly demanded by large companies, SMEs, IT engineering service companies (SSII), as well as consulting firms. Professional integration is very rapid in these fields.
+
+The training program is structured over six semesters, each comprising between 6 and 8 teaching modules. In the initial semesters (from S1 to S3), the primary objective is to acquire in-depth knowledge and understand the fundamental scientific and technical concepts of the discipline. The advanced semesters (from S4 to S5) aim to develop specific skills related to the advanced specialization areas of the program.
+
+Throughout the curriculum, particular attention is paid to acquiring and consolidating transversal skills, especially those related to management, teamwork, communication, and soft skills in general. Semester S6 is dedicated to the completion of a final project (PFE), thus providing students the opportunity to apply all the knowledge and skills acquired during their training.
+
+Curriculum of the "Innovation and AMOA" program:
+
+S1:
+
+Algorithmics and Data Structures, Operating Systems, Computer Architecture, Computer Networks, Statistics for Data Science, Mathematics for Data Science, Probability for Data Science, Relational Database, Database Management, IoT and Connected Applications, Sensor Electronics.
+Introduction to Economic and Management Sciences, General Accounting, Innovation and AMOA in the Digital Context.
+English Studies, Interpersonal Communication I.
+S2:
+
+Cloud Computing Development
+Virtualization
+Cloud Computing Architecture
+Numerical Analysis
+Operations Research & Optimization
+Information Theory
+Networks and Telecommunications
+Object-Oriented Programming with JAVA
+Object-Oriented Design with UML
+Stochastic Modeling
+Time Series
+Data Analysis.
+S3:
+
+Information System Security
+Operating System Security
+Python
+Machine and Deep Learning
+Natural Language Processing (NLP)
+NoSQL Databases
+Big Data
+Service-Oriented Architecture
+Web Development
+Design Thinking & UX Design
+Market Intelligence
+Enterprise Content Management
+Knowledge Management
+Operational and Digital Marketing
+Human Resource Management
+Project Management
+English Studies
+Organizational Communication I.
+S4:
+
+Software Quality Assurance
+Software Testing: Procedures, Standards
+ERP Tools: Functional
+ERP Tools: Technical
+Cybersecurity: Policies and Practices
+Cybersecurity: Risk Analysis and Standards
+Multi-Criteria Decision Methods
+Advanced Optimization
+Mobile Application Development
+Secure Web and Mobile Application
+Financial Engineering
+Market Finance
+General Management
+Business Strategies
+English Studies
+Organizational Communication II.
+S5:
+
+Money & Cryptocurrencies
+Blockchain
+Business Intelligence
+Business Analytics
+Big Data Analytics
+CRM
+Customer Experience
+Governance of Information Systems
+Urbanization of Information Systems
+Business Process Management
+Operations & Supply Chain Management
+Lean Manufacturing
+Digital Transformation
+Entrepreneurship and Innovation
+English Studies
+Communication for Professional Integration.
+The "Data Science" program aims to train engineers specialized in the effective management of large-scale data as well as in the analysis and exploitation of this data for various applications. This discipline combines data engineering skills, focused on data management, storage, and retrieval, with data science skills, centered on data analysis and interpretation.
+
+The targeted objectives of the program are as follows:
+
+Provide engineers with the necessary skills to collect, manage, and analyze data effectively and efficiently, using the most advanced tools and technologies.
+Train engineers in data modeling, understanding trends and patterns, and using machine learning algorithms to enhance business decisions and innovation.
+Teach engineers to understand a company’s data and use this knowledge to propose innovative solutions and solve complex problems.
+Familiarize engineers with best practices in cybersecurity, privacy, and ethics in data processing.
+Equip engineers with skills to effectively communicate the results of their data analysis to both internal and external stakeholders.
+Offer engineers a global perspective on the applications of data science and data engineering in various fields, such as healthcare, finance, industrial production, etc.
+Provide engineers with practical training by working on real data analysis projects to enhance their skills and confidence.
+The "Data Science" program will enable students to acquire a wide range of skills. Here are some examples of skills students can expect to acquire:
+
+Programming Skills: Students will learn to program in different programming languages relevant to data engineering and data science (Python, R, Scala, etc.).
+Data Analysis Skills: Students will learn to collect, clean, explore, analyze, and visualize data using tools such as Pandas, NumPy, etc.
+Machine Learning Skills: Students will learn to apply machine learning and deep learning techniques to build prediction, classification, and clustering models.
+Data Engineering Skills: Students will learn to design and implement data architectures, work with relational and non-relational databases, and use ETL tools to extract, transform, and load data.
+Data Visualization Skills: Students will learn to effectively communicate the results of their data analysis by creating clear and compelling visualizations.
+Big Data Management Skills: Students will learn to manage large volumes of data, work with distributed systems such as Hadoop and Spark, and use batch and real-time processing techniques to handle massive data streams.
+Cybersecurity Skills: Students will learn to understand the security risks related to data collection, management, and analysis, and apply best practices in cybersecurity to protect their company’s data.
+Agile Project Management Skills: Students will learn the principles of agile project management and how to apply them to data science and data engineering projects.
+Communication and Project Management Skills: Students will learn to work in teams, manage data science and data engineering projects, communicate effectively the results of their data analysis to internal and external stakeholders, and adhere to confidentiality and ethical standards.
+The targeted professions of the program respond to the imperative of employability, in a context marked by the incessant changes in labor market needs both nationally and internationally. Here are some examples of targeted professions:
+
+Data Engineer: The data engineer is responsible for designing, implementing, and maintaining data pipelines for collecting, storing, and processing data. They work closely with data scientists to ensure that data is accessible and ready for analysis.
+Data Architect: The data architect is responsible for designing the data architecture to meet business needs. They ensure that data is stored efficiently and securely and that it can be easily accessed for analysis.
+Database Administrator: The database administrator is responsible for managing, optimizing, and maintaining the databases used to store data. They work closely with data engineers to ensure that databases are configured optimally to meet business needs.
+Data Processing Software Developer: The data processing software developer is responsible for designing, developing, and maintaining the software used for data collection, storage, and processing.
+Data Analyst: The data analyst is responsible for analyzing data to help the business make informed decisions. They use statistical analysis and data visualization techniques to extract insights from the data.
+Real-Time Data Analyst: The real-time data analyst is responsible for analyzing data in real time as it is collected. They work closely with data engineers to ensure that data is collected, processed, and analyzed in real time to provide insights to the business.
+Data Scientist: The data scientist is responsible for analyzing and interpreting data to help the business make informed decisions. They use machine learning, statistical techniques, and data visualization to extract insights from the data.
+Machine Learning Analyst: The machine learning analyst is responsible for applying machine learning techniques to solve complex data-related problems, such as prediction, classification, and recommendation.
+Data Engineering Consultant: The data engineering consultant works with clients to understand their data needs and design tailored solutions. They may work in a variety of industries, including financial services, healthcare, and information technology.
+Curriculum of the "Data Science (DATA)" program:
+
+S1:
+
+Operations Research
+Numerical Analysis and Optimization
+Algorithmics and Programming in C
+Object-Oriented Programming in Java
+Introduction to Operating Systems
+Computer Networks
+Introduction to Signal Processing
+Introduction to Information Theory
+Digital Electronics
+Microcontrollers and 8-bit Architecture
+Probability Theory and Applications
+Algebra for Data Science
+Introduction to Economic and Management Sciences
+General Accounting
+English Studies
+Techniques of Expression and Communication.
+S2:
+
+Applied Statistics
+Stochastic Modeling
+Relational Databases
+Semi-Structured Databases
+Algorithm Design and Analysis
+Theory of Languages and Compilers
+Theoretical Computer Science
+Operating System Engineering
+System Administration (Windows and Unix)
+Introduction to Enterprise Networks and Telecommunications
+Financial Analysis and Policy of the Company
+Economic Analysis of Projects
+English Studies
+Techniques of Expression and Communication
+Mini-Project INE1 Development/Design and Data Science
+Mini-Project TEC: Sustainable Development and Discovery of IT Companies
+Python Language.
+S3:
+
+Regression Models
+Time Series
+Object-Oriented Analysis and Design
+Web Development JEE
+Parallelism and Distributed Algorithmics
+Client-Server Programming
+Virtualization
+Cloud Computing (PaaS, SaaS, IaaS) and Distributed Architecture
+Introduction to Scala
+Introduction to Big Data
+Introduction to NoSQL Databases
+Python for Data Science
+Marketing and 2.0 Uses
+Project Management
+English Studies
+Techniques of Expression and Communication.
+S4:
+
+Intelligent Systems
+Machine and Deep Learning
+Algorithmic Puzzle Challenge
+Advanced Learning
+Implementation of a Decision Support System
+GIS and Geolocation
+Data Mining and Knowledge Extraction
+Text Mining and Social Media, and Open Data Analytics
+Basics of Computer Security
+Security Audit
+General Management
+Business Strategies
+English Studies
+Techniques of Expression and Communication.
+Mini-Project Development/Integration/Design Systems
+Mini-Project Bibliography – Introduction to Research.
+S5:
+
+Advanced NoSQL Databases
+Advanced Big Data
+Data Center Management
+Mobile Application Development
+Development and Security of Modern Web Applications
+Advanced Learning and Applications
+Data Science Challenge/Camp
+Visualization and Data Analytics
+IS Governance
+Security Standards and Risk Analysis (EBIOS)
+Real-Time Multimedia Communications on the Web and Adapted Databases
+Engineering of Real-Time and Embedded Systems and Adapted Databases
+Entrepreneurship and Innovation
+Digital Transformation
+English Studies
+Techniques of Expression and Communication.
+The "Cybersecurity and Digital Trust" program aims to train engineers who are experts in information security and system and network infrastructure, capable of ensuring the protection of companies' resources and Internet users through the implementation of technical and organizational solutions that allow for secure use of digital technologies.
+
+Indeed, with the rise of cyberattacks and the misuse of personal data collected by various applications used by citizens, the use of digital technology is confronted with a degradation of the level of trust that users can have in their relationship with digital technology.
+
+The "Cybersecurity and Digital Trust" program aims to restore users' trust in digital technology by equipping graduating engineers with the technical and regulatory knowledge necessary to develop and implement secure infrastructures for safe digital use that respects privacy and guarantees the protection of data for the various stakeholders. This ultimately allows for confident use of digital technology and subsequently encourages the development of its use for important online services, such as e-administration, e-commerce, e-payment, etc.
+
+The "Cybersecurity and Digital Trust" engineer is capable of ensuring data protection and the proper functioning of technical infrastructures. They must protect the information system against intrusion attempts by implementing solutions to secure IT systems while ensuring the availability of services, the preservation of integrity, and the confidentiality of the company's data, as well as securing electronic transactions.
+
+This training will respond to the labor market's needs in terms of cybersecurity and information system security at the national level. It will ensure that public administrations, public organizations, and operators of vital infrastructure have qualified human resources in cybersecurity and information systems security.
+
+Upon completing the training, students in the program will have acquired technical, managerial, and communication skills that will allow them to meet the expectations of companies and society to establish a climate of trust and respect for privacy in the current and future digital world.
+
+Students will notably be able to:
+
+Design security solutions.
+Audit the security of information systems while respecting security standards and Moroccan laws.
+Analyze IT risks and produce security risk mapping documents for an organization.
+Develop security policies, implement them, and ensure compliance and application.
+Evaluate the security measures deployed and test their effectiveness against cyberattacks.
+Choose appropriate technical solutions and configurations to secure the digital services offered by organizations.
+Assess and evaluate the level of risks related to the use of digital technology and cloud services by an organization.
+Implement technical means and administrative procedures to protect individuals against automated processing of private data while respecting current laws.
+Manage situations where an organization is targeted by a cyberattack.
+Implement technical solutions to enhance the security of an organization's IT infrastructure.
+Design secure network architectures.
+Securely design the information system infrastructure of an organization.
+Deploy system and network infrastructures and choose suitable configurations to meet the organization's needs.
+Maintain the operational integrity of an organization's system and network infrastructures.
+Develop network and system configurations to implement the organization's IT infrastructure.
+Evaluate the security of web and mobile applications.
+In addition to these technical skills, the engineer from the "Cybersecurity and Digital Trust" program will be capable of:
+
+Managing a team and demonstrating leadership.
+Participating and collaborating effectively with various project partners.
+Communicating orally, face-to-face, and/or in front of an audience, in the context of improvised and/or organized speeches, using correct and precise language.
+Writing professional documents while considering the communication situation's requirements.
+Innovating and creating new services.
+Upholding ethics at all times and in all situations.
+Demonstrating respect for human considerations in their actions and decisions.
+Taking into account respect for the environment.
+The engineer graduating from this program will be well-equipped to occupy various positions related to information security, covering a wide range of sectors. This versatility is explained by the fact that all companies and organizations, whether public or private, face the imperative to secure their data as well as their system and network infrastructures.
+
+The targeted potential professions include:
+
+Digital Trust Engineer
+Cybersecurity Architect Engineer
+Security Incident Analyst Engineer
+Information Systems Security Manager Engineer
+Network Security Engineer
+Systems Security Engineer
+Information Systems Security Auditor Engineer
+Technical Security Auditor Engineer
+IT Risk Analyst Engineer
+Network Engineer
+Systems Engineer
+Data Manager Engineer
+Technical Support Engineer
+Web and Mobile Application Pentester Engineer.
+Curriculum of the "Cybersecurity and Digital Trust (ICCN)" program:
+
+S1:
+
+Graph Theory and Optimization
+Probability Calculus
+Operating Systems
+Operating System Engineering
+Computer Networks
+Interconnection and Enterprise Networks
+Algorithmics and Programming in C
+Object-Oriented Programming Paradigms
+Databases
+Digital Electronics
+Computer Architecture
+Microcontrollers and Interfaces
+Introduction to Economic and Management Sciences
+Accounting and Finance of the Company
+English for Computer Sciences & Information Technology
+Interpersonal Communication I.
+S2:
+
+Applied Statistics
+Data Analysis
+System Administration
+Database Administration
+System Security
+TCP/IP Protocols
+Foundations of Cybersecurity
+Advanced Programming with Python
+Object Analysis and Design (UML)
+Web Development
+Signal Processing
+Internet of Things
+Wireless Networks
+Project Management
+Development Project
+English for Computer Sciences & Information Technology II
+Interpersonal Communication II.
+S3:
+
+Applied Cryptography
+Key Management Infrastructure
+Network Security
+Virtualization and Containerization
+Cloud Computing
+Parallelism and Distributed Algorithmics
+Multi-Threading and Network Programming
+Introduction to Big Data
+DevOps and Security
+IP Routing in Campus and Internet Networks
+Network Service Administration
+General Management
+IT Project Management
+English for Business Technology I
+Organizational Communication I.
+S4:
+
+Logic Programming and Expert Systems
+Deep Learning
+Machine Learning
+Engineering Project
+Network and Service Management
+Security Protocols and Services
+Distributed Algorithmics for Security
+Blockchain and Distributed Ledger Technologies (DLTs)
+Integration and Implementation of IPv6
+Foundations of Future Networks (SDN, QoS...)
+Penetration Testing (Ethical Hacking)
+Security of Network Services
+Web Application Security and Security Models (S-SDLC)
+Marketing and 2.0 Uses
+Cyber Law
+English for Business Technology II
+Organizational Communication II.
+S5:
+
+IoT and SCADA Security (Industrial)
+Cloud Security
+Design of Secure Network and System Architectures
+Theme 1
+Theme 2
+Security Incident Detection and Management
+Intelligent Systems for Cybersecurity
+Security Risk Analysis and Management
+ISO 2700x Security Standards
+Security Audit
+Malware Analysis, Forensic Investigation
+Identity and Access Management (IAM)
+Public Procurement Regulations
+Entrepreneurship and Innovation
+IT Service Management
+English for Business and Management
+Communication for Professional Integration
+The "Advanced Software Engineering for Digital Services" program aims to train engineers capable of leveraging advanced software engineering concepts and applying best practices in this field to develop reliable, robust, portable, extensible, and scalable digital services in a timely manner, regardless of the application domain and industry.
+
+Graduates from this program master the various phases of software development, from analyzing clients' functional and non-functional requirements to implementation and testing, using the most appropriate methodologies and technological tools. In addition to their ability to develop software solutions from scratch, they may also be responsible for the maintenance and evolution of existing software solutions.
+
+Upon completion of this training, in terms of technical skills, the student will be able to:
+
+Choose and apply a software development approach to implement a software solution that meets a client's needs while considering the specifics of the solution to be developed.
+Explore and analyze all dimensions of the posed problem by utilizing provided documentation and engaging with various stakeholders. They will reformulate these into a specification document in the form of functional and technical requirements.
+Model and develop the architecture of the software solution to be developed in terms of functional components (subsystems). They will use available verification methods to ensure the quality level of the solution to be implemented.
+Evaluate and select technological tools that best meet the desired performance and quality criteria.
+Create a prototype of the solution to verify that it meets the client's expectations.
+Create a test suite to ensure that the developed solution meets the specifications' functionalities and to identify and remedy any potential anomalies.
+Use metrics and tools to assess/validate the structural quality of the developed solution in terms of security, ergonomics, and maintainability.
+In terms of management and teamwork skills, the student will be able to:
+
+Contribute as part of a team to project management by exploring the project's issues and context, as well as the stakes and constraints involved.
+Co-write a project scope specification with colleagues.
+Contribute to planning the work plan.
+Contribute to collectively solving technical difficulties and potential conflicts encountered within the team.
+Demonstrate respect for commitments made during project planning and inform team members of decisions to be made in case of deviations or blockages.
+In terms of communication skills, the student will be able to:
+
+Communicate effectively both orally and in writing to successfully complete assigned projects in their work environment.
+Engage with all stakeholders in a software development project, facilitating the clarification of their needs, expectations, and constraints.
+Provide stakeholders with a synthesized view of the situation to facilitate decision-making.
+Ensure traceability and documentation in a concise and precise language.
+Correctly write a synthesis report describing and justifying the choices (design and technology) made in the development of a solution.
+Communicate orally, face-to-face and/or in front of an audience.
+In terms of soft skills, the student will be able to:
+
+Demonstrate autonomy, initiative, self-confidence, adaptability to the unexpected, rigor, openness, critical thinking, a sense of responsibility, and respect for professional ethics in their work.
+Take into account the socio-economic stakes of an industrial project for both the user and their environment from the drafting of a specification document.
+Ensure the robustness and reliability in the face of the uncertainties of the users' work environment for critical projects.
+Organize themselves to explore a computing problem that is new to them and gather the necessary information to assess the situation through various available channels.
+Uphold ethics at all times and in all situations.
+The professions targeted by this program address the imperative of employability in a context characterized by the constant evolution of labor market needs at both national and international levels. The targeted professions include:
+
+Software Engineer
+Research and Development Engineer
+Full-Stack Web Development Engineer
+Backend Web Development Engineer
+Frontend Web Development Engineer
+Mobile Development Engineer
+Cloud Development Engineer
+Blockchain Development Engineer
+Software Architect
+QA Engineer
+Application Integrator
+IoT Engineer
+DevOps/SRE Engineer
+Platform Engineer
+Data Engineer
+Decision Support System Engineer
+Product Engineer
+Project Manager
+Product Owner
+Systems Analyst
+IT Manager
+SI Urban Planner
+Enterprise Architect
+Curriculum for the "Advanced Software Engineering for Digital Services (ASEDS)" Program:
+S1:
+
+Probability and Statistics
+Algorithms and Data Structures
+Object-Oriented Programming I
+Object-Oriented Programming II
+Basics of Web Development
+Basics of Computer Security
+Relational Databases
+NoSQL Databases
+Computer Architecture
+Operating Systems Engineering
+Introduction to Computer Networks
+High-Level Network Protocols
+Introduction to Economic and Management Sciences
+General Accounting
+English for Computer Science & Information Technology I
+Interpersonal Communication I
+S2:
+
+Development Project
+Operations Research
+Advanced Algorithms
+Object Analysis and Design
+Software Development Cycle and Agile Methods
+UX/UI Design
+Introduction to Visual Computing
+System Administration
+Database Administration
+Introduction to Telecommunications Networks
+Parallelism and Distributed Algorithms
+Financial Analysis and Policy for Enterprises
+Economic Analysis of Projects
+English for Computer Science & Information Technology II
+Interpersonal Communication II
+S3:
+
+Application Containerization
+DevOps
+Machine Learning
+Decision Systems
+Programming Paradigms
+Language Theory and Compilation
+Software Architecture
+API Design and Management
+Code Refactoring & Design Patterns
+Software Testing and Quality Metrics
+Web Application Development I
+Native Mobile Application Engineering
+Marketing and 2.0 Uses
+General Management
+English for Business Technology I
+Organizational Communication I
+S4:
+
+Web Application Development II
+Cross-Platform Mobile Applications Engineering
+Cloud Computing
+IoT Applications Engineering
+Data Engineering
+Big Data
+Security in the Software Development Cycle
+Security of Web and Mobile Applications
+Engineering Project
+INE1 Internship
+Design of Distributed Systems
+Distributed Software Architectures
+IT Project Management
+Business Strategies
+English for Business Technology II
+Organizational Communication II
+S5:
+
+Blockchain and Web 3
+Deep Learning
+Opening to New IT Trends
+INE2 Internship
+Enterprise Application Integration
+Urbanization and BPM
+Model Driven Architecture (MDA)
+Domain Specific Languages (DSL)
+Good Practice Standards in IT
+Digital Transformation
+Cloud Development
+Cloud Architecture
+Entrepreneurship and Innovation
+Digital Law
+English for Business and Management
+Communication for Professional Integration
+The "Engineering of Intelligent Information and Communication Technologies (Smart ICT)" program aims to train students in the fields of intelligent information and communication technologies. This training will enable our engineers to effectively and innovatively pose and solve often complex problems related to the creation, design, implementation, within a competitive organization, of products, systems, or services, including their financing and commercialization.
+
+Upon completion of the training in this program, the engineer will be able to:
+
+Design, plan, develop, and implement the architectures, platforms, and technical solutions of next-generation telecommunications networks, according to the needs and strategy of the company or client, particularly for smart electrical grids (Smart-Grid), intelligent transport systems, and smart connectivity, taking into account the mobility of massive data traffic and energy from equipment.
+Design, optimize, develop, and implement solutions for processing large amounts of data generated by intelligent systems (IoT, Wireless Sensor Networks, Medical, Agriculture, Business Data, Internet, etc.), from generation, acquisition, storage, to analysis. The engineer must be capable of utilizing tools and software for big data processing and developing proprietary solutions for analyzing and interpreting information from large networks or intelligent systems.
+Ensure the proper functioning and quality of the infrastructure from both hardware and software perspectives, participate in its evolution, and lead integration and modernization projects in the field.
+Advise and guide the company's choices regarding intelligent technological solutions and participate in negotiations with providers.
+Supervise a team of technicians in next-generation networks and systems for better execution of solutions tailored to the company’s clients.
+The skills to be acquired by the engineers in this program have been carefully designed to facilitate their integration into the professional world, helping them face challenges and meet the sector's needs in terms of interactivity, know-how, and interpersonal skills. This change in the very definition of the engineer's role drives us to adopt a new pedagogical approach, enabling engineering students to acquire both major and minor skills that encompass the engineer's overall personality.
+
+In general, the targeted skills can be outlined as follows:
+
+Technical Skills:
+
+The training is based on fundamental teachings in telecommunications, forming the foundational base. It emphasizes fundamental engineering principles in computer science development, information processing, and analysis from large-scale systems and networks, sciences aimed at optimizing connectivity in intelligent networks, as well as sciences of connected objects, sensors, and their functioning in networks. Additionally, a significant part of the training will be dedicated to project management in the field of smart ICT technologies.
+Upon completion of this training, the "Smart ICT" engineer will possess the following skills in terms of know-how:
+
+Design, plan, develop, and implement the architectures, platforms, and technical solutions of next-generation telecommunications networks;
+Design, optimize, develop, and implement solutions for processing large amounts of data from intelligent systems;
+Utilize tools and software for big data processing;
+Develop proprietary solutions for analyzing and interpreting information from large networks or intelligent systems;
+Ensure the proper functioning and quality of the infrastructure from both hardware and software perspectives;
+Supervise technology transfer operations;
+Lead integration and modernization projects in the field of ICT;
+Advise and guide the company's choices regarding intelligent technological solutions.
+Interpersonal Skills:
+
+Mastery of communication in the working language as well as in at least one other language.
+Acquisition of a general education, reflected through knowledge and interpersonal skills, both at the national and international levels, to train engineers capable of leading teams.
+Openness to international perspectives, involving the learning of other cultures and different working methods through programs designed and validated by our academic partners.
+Adaptability to change.
+Development of technical skills beyond their specialty.
+Integration of business and societal disciplines.
+Acquisition of professional skills through internships, writing, and oral presentations, as well as job search simulations.
+Regarding the targeted professions by the program, the curriculum was developed based on benchmarking conducted in partnership with the business world, which identified competence and job needs for businesses and industry in Morocco and abroad. These skills and jobs are primarily oriented towards the digital sphere.
+
+The targeted professions by the program are as follows:
+
+Network Infrastructure and Service Engineer: architecture, construction, operation, and maintenance of network infrastructures and services;
+Communication Systems Engineer: Design, deployment, and administration of communication systems (4G, 5G, and future generations);
+Network Qualification Engineer;
+Signal Processing and Data Processing Engineer for applications essential for monitoring and system integrity.
+Curriculum for the "Engineering of Intelligent Information and Communication Technologies (Smart-ICT)" Program:
+S1:
+
+Algorithms and Programming in C
+Computer Architecture
+Operating Systems
+Statistics and Stochastic Processes
+Operations Research
+Signal Processing
+Filter Synthesis
+Information Theory and Coding
+Transmission Media
+ICT Networks
+Introduction to Economic and Management Sciences
+General Accounting
+English
+Technology
+S2:
+
+Object-Oriented Engineering
+Relational Databases
+Web Development
+Electronic Functions
+Rapid Analog Electronics
+RF & Microwave Systems
+Hardware Description Languages (VHDL)
+Programmable Logic & FPGA Synthesis
+Mixed-Signal Circuits
+Communication Buses and Protocols
+Scheduling and Real-Time OS
+Project Management
+Development Project
+English for Information Technology II
+Interpersonal Communication I
+S3:
+
+Sensors and Actuators
+Fundamentals of Big Data
+Virtualization and Cloud Computing
+Filter Synthesis
+Digital Signal Processors (DSP)
+Digital Signal Processing on FPGA
+Machine Learning and Deep Learning
+Graphical Programming Language
+Mobile Application Development
+Digital VLSI Integrated Circuits
+System on Chip (SoC)
+Digital Control of Systems
+General Accounting
+Financial Analysis and Policy for Enterprises
+English for Business Technology I
+Organizational Communication
+S4:
+
+Local Networks and LPWAN for IoT
+Mobile and Satellite Networks
+Cryptography and Hardware Security
+Security of Smart Cards and Java Card
+Security of Web and Mobile Applications
+Advanced Architectures and Parallelism
+IoT Platforms and Technologies
+Distributed Systems
+Artificial Intelligence and Computer Vision
+Introduction to Research Project
+Engineering Project
+Economic and Financial Analysis of Projects
+General Management
+Marketing and 2.0 Uses
+English for Business Technology II
+Organizational Communication II
+S5:
+
+Cybersecurity of Embedded Systems
+Blockchain & Smart Contracts
+Industrial Programmable Automation & SCADA
+Quality of Embedded Systems and Software
+Module Element of Choice 1
+Module Element of Choice 2
+Professional Integration Project - Seminars
+Opening and Innovation Project
+Digital Economy
+Entrepreneurship and Innovation
+English for Business and Management
+Communication for Professional Integration
+The "Embedded Systems and Digital Services" program aims to train engineers capable of mastering the entire development process of an embedded system, from design to implementation, including the realization of its electronic and computing parts. The objectives of this training are as follows:
+
+Acquire knowledge in electronics and computing necessary to design and realize embedded systems.
+Master the programming techniques of microcontrollers, processors, FPGAs, and other electronic components used in embedded systems.
+Understand the communication protocols and programming interfaces commonly used in embedded systems.
+Design and implement electronic circuits for embedded applications.
+Design and develop software for embedded systems using programming languages such as C/C++, Java, Python, etc.
+Integrate IoT and AI technologies into embedded systems.
+Acquire project management skills necessary to successfully carry out embedded system development projects.
+The "Embedded Systems and Digital Services" program aims to provide students with a set of key skills necessary to design, develop, and implement embedded systems. The skills that students can acquire during this training include:
+
+Electronics Skills: Students can acquire skills in designing electronic circuits, programming microcontrollers, signal processing, wireless communication, energy, and power management.
+Computing Skills: Students can acquire skills in programming embedded systems, software development, algorithms, computer architecture, and database management.
+Communication Skills: Students can acquire skills in technical communication, presentation, and negotiation.
+Project Management Skills: Students can acquire skills in project management, planning, resource management, budgeting, and leadership.
+IoT and AI Skills: Students can acquire skills in integrating IoT and AI technologies into embedded systems.
+Innovation Skills: Students can acquire skills in innovation, creativity, problem-solving, and critical thinking.
+Project Management Skills: Students should be capable of planning and organizing embedded systems development projects by defining tasks, necessary resources, timelines, budgets, and associated risks.
+The "Embedded Systems and Digital Services" program offers numerous career opportunities for graduates. Students who have completed this training can specialize in a wide range of fields, including:
+
+The automotive industry: Embedded systems are increasingly used in modern cars for driving management, safety, and entertainment.
+The aerospace industry: Embedded systems are essential in the aerospace industry for navigation, communication, and safety.
+The consumer electronics industry: Embedded systems are increasingly used in consumer electronic devices such as smartphones, tablets, and smartwatches.
+Information and communication systems: Embedded systems are used for wireless communication, security monitoring, traffic management, etc.
+The medical industry: Embedded systems are used for patient monitoring, health management, and medical device development.
+Startups and innovative companies: Graduates with innovation skills can use their knowledge to create their own business or work in a startup.
+Graduates of this program can hold positions such as:
+
+Embedded Systems Engineer: Embedded systems engineers design, develop, and test embedded systems for various industries.
+Embedded Software Development Engineer: These engineers focus on developing software for embedded systems.
+Test and Validation Engineer: Test and validation engineers are responsible for testing and validating embedded systems to ensure they are reliable and function correctly.
+Hardware Design Engineer: Hardware design engineers focus on designing printed circuit boards and other hardware components necessary for embedded systems.
+Software Development and Digital Services Engineer: These engineers work on the development and implementation of software for various platforms and applications.
+Industrial Automation Engineer: These engineers work on designing and implementing automated systems for manufacturing and production industries.
+Curriculum for the "Embedded Systems and Digital Services (Sesnum)" Program:
+S1:
+
+Digital Electronics
+Analog Electronics
+Signals and Systems
+Information Theory
+Transmission Support
+Algorithms and Programming in C
+Microcontrollers
+Object-Oriented Paradigm and Programming
+Architecture of Digital Systems
+Operating Systems
+Computer Networks
+Introduction to Economic and Management Sciences
+Project by Simulation
+Interpersonal Communication I
+English for Information Technology
+S2:
+
+Object-Oriented Engineering
+Relational Databases
+Web Development
+Electronic Functions
+Rapid Analog Electronics
+RF & Microwave Systems
+Hardware Description Languages (VHDL)
+Programmable Logic & FPGA Synthesis
+Mixed-Signal Circuits
+Communication Buses and Protocols
+Scheduling and Real-Time OS
+Project Management
+Development Project
+English for Information Technology II
+Interpersonal Communication I
+S3:
+
+Sensors and Actuators
+Fundamentals of Big Data
+Virtualization and Cloud Computing
+Filter Synthesis
+Digital Signal Processors (DSP)
+Digital Signal Processing on FPGA
+Machine Learning and Deep Learning
+Graphical Programming Language
+Mobile Application Development
+Digital VLSI Integrated Circuits
+System on Chip (SoC)
+Digital Control of Systems
+General Accounting
+Financial Analysis and Policy for Enterprises
+English for Business Technology I
+Organizational Communication
+S4:
+
+Local Networks and LPWAN for IoT
+Mobile and Satellite Networks
+Cryptography and Hardware Security
+Security of Smart Cards and Java Card
+Security of Web and Mobile Applications
+Advanced Architectures and Parallelism
+IoT Platforms and Technologies
+Distributed Systems
+Artificial Intelligence and Computer Vision
+Introduction to Research Project
+Engineering Project
+Economic and Financial Analysis of Projects
+General Management
+Marketing and 2.0 Uses
+English for Business Technology II
+Organizational Communication II
+S5:
+
+Cybersecurity of Embedded Systems
+Blockchain & Smart Contracts
+Industrial Programmable Automation & SCADA
+Quality of Embedded Systems and Software
+Module Element of Choice 1
+Module Element of Choice 2
+Professional Integration Project - Seminars
+Opening and Innovation Project
+Digital Economy
+Entrepreneurship and Innovation
+English for Business and Management
+Communication for Professional Integration
+
+Program: "Engineering of Ubiquitous and Distributed Systems – Cloud and IoT"
+The "Engineering of Ubiquitous and Distributed Systems – Cloud and IoT" program aims to train engineers capable of driving the proactive digitalization policy of administration and businesses in Morocco. Without engineers possessing the necessary skills in the job market, the success of this digital transition would be compromised.
+
+Digitalization, which is inevitable in this context, cannot ignore the rapid rise of the Internet of Things (IoT), which has taken hold not only in the business world but also among citizens. The emergence of billions of connected objects generates significant amounts of data, requiring adequate processing, storage, and analysis.
+
+To meet these needs, the computing power of machines continues to increase through the virtualization of services and the adoption of cloud computing techniques. Cloud computing, which involves networking distributed machines, allows for addressing the growing demand for processing power.
+
+Finally, data storage is often outsourced to specialized centers such as data centers. Thus, the company of the future will adopt a model centered on its core business, outsourcing the processing and storage of its data, whether internally or externally.
+
+In this context, the "Engineering of Ubiquitous and Distributed Systems – Cloud and IoT" program trains engineers who will play an essential role as project managers, integrating IoT skills and cloud infrastructure development to meet future challenges.
+
+The skills to be developed for engineers have been carefully designed to promote their full integration into society by addressing challenges and meeting needs in interactivity, know-how, and soft skills. This shift in the definition of the engineer's role pushes us to adopt a new pedagogical approach, allowing engineering students to acquire both major and minor skills that encompass the whole personality of the engineer.
+
+Employability-Enhancing Skills:
+Technical Skills:
+
+Fundamental knowledge representing the basic foundation.
+Principles of fundamental engineering in computer science.
+Design Skills:
+
+Design of ubiquitous systems, particularly the Internet of Things (IoT).
+Design of cloud solutions at the infrastructure and application levels.
+Design of Big Data solutions in terms of storage and processing.
+Innovation Skills:
+
+Development of new services.
+Creation of new applications.
+Innovations in ubiquitous systems.
+Innovations in embedded systems.
+Innovations in computing architectures.
+Operational Skills:
+
+Project management.
+Network management.
+Embedded systems.
+Soft Skills:
+
+Mastery of communication in the working language as well as in at least one other language.
+Acquisition of a general education, reflected through knowledge and soft skills, both nationally and internationally, to prepare engineers to lead teams.
+Openness to international experiences, involving learning about other cultures and different working methods through programs designed and validated by our academic partners.
+Adaptability to change.
+Development of technical skills beyond specialization.
+Integration of business and societal disciplines.
+Acquisition of professional skills through internships, writing, and oral presentations, as well as job search simulations.
+Targeted Professions:
+The professions targeted by the program respond to the imperative of employability, in a context marked by the constant evolution of labor market needs at both national and international levels. The targeted professions include:
+
+Software Development Engineer
+Ubiquitous Systems Engineer
+Big Data Engineer
+Integration Engineer
+Service Development Engineer
+Systems and Network Engineer
+Cloud Deployment Engineer
+Embedded Systems Engineer
+Cloud Operations Engineer
+Entrepreneur Engineer
+Research Engineer
+Network Architect
+Security Engineer for Systems, Applications, and Services
+Curriculum for the "Engineering of Ubiquitous and Distributed Systems – Cloud and IoT" Program:
+Semester 1:
+
+Mathematics for Engineers
+Probability and Applications
+Applied Statistics
+Programming in C
+Programming in Python
+Object-Oriented Development in C++
+Operating Systems
+Communication Networks
+Circuits and Hardware Architectures
+Signal Processing
+Information Theory and Coding
+Analog and Digital Communication
+Personal and Professional Project (PPP)
+Engineering Workshops
+Economics of Morocco
+Engineer's Ethics and Deontology
+English for Engineers
+Personal Development and TEC
+Semester 2:
+
+Linear and Non-linear Optimization
+Stochastic Modeling and Applications
+Graph Theory and Scheduling
+Data Structures and Algorithms
+Algorithm Analysis and Design
+Language Theory and Compilation
+Local Networks and Interconnections
+Systems Programming and Administration
+Fundamentals of Computer Security
+Relational Databases
+Software Development Process
+Mobile Application Development
+Personal and Professional Project (PPP)
+Engineering Workshops
+General Accounting
+Sustainable Development and Green ICT
+English for Engineers
+Personal Development and TEC
+Semester 3:
+
+Memories and Hardware Interfaces
+Real-time and Embedded Systems
+Parallel and Distributed Algorithms
+Design Patterns and Frameworks
+Middleware and Distributed Architectures
+NoSQL Databases and Big Data
+Virtualization and Containerization Techniques
+Operating System Security
+Cloud Architectures and Services
+Communication Network Security
+Wireless Sensor Networks
+Mobile Networks
+Personal and Professional Project (PPP)
+Engineering Workshops
+Project Management
+Financial Analysis of Projects
+Personal Development and TEC
+English for Engineers
+Semester 4:
+
+Cloud Platforms and Solutions
+Cloud and IoT Security
+Data Centers, Services, and Storage Networks
+Fundamentals of DevOps
+DevOps Platforms and Technologies
+SOA and Web Application Development
+IoT Fundamentals: Devices and Connectivity
+IoT Fundamentals: Networking and Protocols
+Development of IoT Applications/Services
+Distributed Processing of Big Data
+Data Mining and Warehousing
+Pattern Recognition and Machine Learning
+Personal and Professional Project (PPP)
+Engineering Workshops
+Risk Management
+Digital Marketing
+Personal Development and TEC
+English for Engineers
+Semester 5:
+
+P2P Applications and Communications
+Application Security
+Virtualization for IoT
+5G and Cloud
+Development of Cloud Applications/Services
+System Monitoring
+Introduction to R&D
+Seminars
+Personal and Professional Project (PPP)
+Engineering Workshops
+Innovation and Startups
+Capital Markets
+Personal Development and TEC
+English for Engineers

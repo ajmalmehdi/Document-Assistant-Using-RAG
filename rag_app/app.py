@@ -18,13 +18,13 @@ Answer the question based on the context above: {question}
 
 # Function to query the RAG system
 async def query_rag(query_text: str):
-    embedding = OllamaEmbeddings(model="mxbai-embed-large")
+    embedding = OllamaEmbeddings(model="mxbai-embed-large",base_url="http://ollama:11434")
     db = Chroma(persist_directory=CHROMA_PATH, embedding_function=embedding)
     results = db.similarity_search_with_score(query_text, k=5)
     context_text = "\n\n---\n\n".join([doc.page_content for doc, _score in results])
     prompt_template = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
     prompt = prompt_template.format(context=context_text, question=query_text)
-    model = Ollama(model="gemma2")
+    model = Ollama(model="gemma2",base_url="http://ollama:11434")
     response_text = model.invoke(prompt)
     sources = [doc.metadata.get("id", None) for doc, _score in results]
     formatted_response = f"Response: {response_text}\nSources: {sources}"

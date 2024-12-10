@@ -1,0 +1,29 @@
+
+version: "3"
+
+services:
+  web:
+    build: rag_app
+    ports:
+      - 8000:8000
+    volumes:
+      - ./rag_app:/app
+    networks:
+      - app-net
+  ollama:
+    build: ollama
+    ports:
+      - 11434:11434
+    volumes:
+      - ollama-vol:/ollama
+    networks:
+      - app-net
+    entrypoint: ["/usr/bin/bash", "/ollama.sh"]
+
+networks:
+  app-net:
+    driver: bridge
+
+volumes:
+  ollama-vol:
+    driver: local

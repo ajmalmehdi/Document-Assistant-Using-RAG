@@ -24,7 +24,7 @@ A powerful document-based chatbot using RAG (Retrieval-Augmented Generation) arc
    git clone https://github.com/ajmalmehdi/Document-Assistant-Using-RAG
 2. Start the application
     ```bash
-    docker-compose up --build
+    docker-compose -f docker_compose.yml up --build -d
 ### Local Installation
 
 1. Install dependencies
@@ -50,5 +50,6 @@ then run the script to load the text file and create the embeddings
     python -m scripts.load_data --reset
 ### 📸 Application Preview
 
-![Application Screenshot](C:\Users\Hp\Desktop\Application.png)
+![Alt Text](Application.png)
+
   

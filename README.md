@@ -50,5 +50,6 @@ then run the script to load the text file and create the embeddings
     python -m scripts.load_data --reset
 ### 📸 Application Preview
 
-![Application Screenshot](C:\Users\Hp\Desktop\Application.png)
+![Alt Text](Application.png)
+
   
